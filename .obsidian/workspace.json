@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " MVC란 무엇인가 (MVC 정의 및 역사) MVC에서 각각의 역할 MVC 패턴의 종류(MVC1, MVC2, 차이/개선점)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -155,7 +156,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3362987e67e7ba4c",
+  "active": "b404cc0958ca10d7",
   "lastOpenFiles": [
     "project/취업/자소서/CJ 네트웍스.md",
     "project/그룹스터디/MVC.md",
