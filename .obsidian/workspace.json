@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/그룹스터디/MVC.md",
+                "file": "resources/CS/데이터베이스/Mysql 쿼리문 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " MVC란 무엇인가 (MVC 정의 및 역사) MVC에서 각각의 역할 MVC 패턴의 종류(MVC1, MVC2, 차이/개선점)",
+                "query": "MYSQL",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project/그룹스터디/MVC.md",
+                "file": "resources/CS/데이터베이스/Mysql 쿼리문 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "project/그룹스터디/MVC.md",
+                "file": "resources/CS/데이터베이스/Mysql 쿼리문 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/그룹스터디/MVC.md"
+                "file": "resources/CS/데이터베이스/Mysql 쿼리문 정리.md"
               }
             }
           },
@@ -156,10 +156,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b404cc0958ca10d7",
+  "active": "3362987e67e7ba4c",
   "lastOpenFiles": [
-    "project/취업/자소서/CJ 네트웍스.md",
     "project/그룹스터디/MVC.md",
+    "project/취업/자소서/CJ 네트웍스.md",
     "project/그룹스터디",
     "project/무제 파일.md",
     "todo/2023-09-21.md",
