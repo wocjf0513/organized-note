@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources/CS/데이터베이스/Mysql 쿼리문 정리.md",
+                "file": "project/그룹스터디/MVC.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/CS/데이터베이스/Mysql 쿼리문 정리.md",
+                "file": "project/그룹스터디/MVC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources/CS/데이터베이스/Mysql 쿼리문 정리.md",
+                "file": "project/그룹스터디/MVC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources/CS/데이터베이스/Mysql 쿼리문 정리.md"
+                "file": "project/그룹스터디/MVC.md"
               }
             }
           },
@@ -158,6 +157,7 @@
   },
   "active": "3362987e67e7ba4c",
   "lastOpenFiles": [
+    "resources/CS/데이터베이스/Mysql 쿼리문 정리.md",
     "project/그룹스터디/MVC.md",
     "project/취업/자소서/CJ 네트웍스.md",
     "project/그룹스터디",
@@ -187,7 +187,6 @@
     "img/Pasted image 20230920162734.png",
     "img/Pasted image 20230920162034.png",
     "README.md",
-    "resources/CS/데이터베이스/Mysql 쿼리문 정리.md",
     "resources/CS/데이터베이스",
     "resources/무제 폴더",
     "resources/데이터베이스.md",
