@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/취업/취업 관련 현황.md",
+                "file": "area/IntelliJ/단축키.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project/취업/취업 관련 현황.md",
+                "file": "area/IntelliJ/단축키.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "project/취업/취업 관련 현황.md",
+                "file": "area/IntelliJ/단축키.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/취업/취업 관련 현황.md"
+                "file": "area/IntelliJ/단축키.md"
               }
             }
           },
@@ -157,6 +157,8 @@
   },
   "active": "3362987e67e7ba4c",
   "lastOpenFiles": [
+    "project/취업/자소서/롯데정보통신.md",
+    "project/취업/취업 관련 현황.md",
     "project/취업/자소서/CJ 네트웍스.md",
     "project/취업/자소서/CGV 자기소개서.md",
     "project/취업/자소서/가비아.md",
@@ -167,7 +169,6 @@
     "project/취업/자소서/SK 쉴더스.md",
     "project/취업/자소서/NTS.md",
     "project/취업/자소서/LIG 넥스원.md",
-    "project/취업/자소서/롯데정보통신.md",
     "project/취업/자소서/미라콤 아이앤씨.md",
     "project/취업/자소서/신한은행.md",
     "project/취업/자소서/에스원.md",
@@ -182,7 +183,6 @@
     "resources/CS/데이터베이스/Mysql 쿼리문 정리.md",
     "project/그룹스터디",
     "project/취업/소스/경험 리스트.md",
-    "project/취업/취업 관련 현황.md",
     "project/취업/자소서/현대오토에버.md",
     "img/한화 시스템 직무.png",
     "project/취업/자소서/한화시스템 기업분석.md",
