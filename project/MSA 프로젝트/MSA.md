@@ -13,8 +13,10 @@ Microservice architectures are the ‘new normal’. Building small, self-contai
 	a dedicated infrastructure layer that is responsible for handling communication between microservices in a distributed application.
 
 * **Eureka Server** : MSA와 관련된 어플리케이션에서 서비스 등록, 검색(위치 및 엔드포인트 동적 검색) 및 로드밸런싱을 관리한다.
+	* 로드밸런싱 : 트래픽 분산시키는 기술
 
-* **Gateway Server** : 
+* **Gateway Server** : 네트워크 간 통신을 중개하거나 연걸하기 위해 사용되는 서버
+
 
 
 
