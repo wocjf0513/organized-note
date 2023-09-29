@@ -20,7 +20,8 @@ Microservice architectures are the ‘new normal’. Building small, self-contai
 * Port 설정
 	* Eureka Server : 8081
 	* Gateway Server : 8082
-	* 
+	* User Service Server : 8091
+	* Admin Service Server : 8092
 
 
 ## Eureka Server
@@ -70,6 +71,7 @@ Microservice architectures are the ‘new normal’. Building small, self-contai
 2. Gateway Handler Mapping 에서 해당 요청에 대한 Route와 Predicates가 일치한다고 판단하면 해당 요청은 Gateway Web handler로 보내진다.
 3. handler 에서 Filter Chain 을 이용해서 **사전 필터** 혹은 **사후 필터**로 나누어 동작한다.
 4. 필터링이 된 후 실제 마이크로서비스에게 전달된다.
+
 
 
 
