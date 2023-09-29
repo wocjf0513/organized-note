@@ -55,6 +55,10 @@ Microservice architectures are the ‘new normal’. Building small, self-contai
 ### Gradle 명령어
 * gradlew build --refresh-dependencies : 새로 추가한 의존성을 설치해준다.
 
+
+### 하면서 배운 점
+* actuator를 http로 이용하고 싶으면, spring-starter-web 의존성을 추가해야 된다.
+* 
 ### 참고 문헌
 
 1. [MSA 프로젝트 구조 참고](https://wonit.tistory.com/506)
