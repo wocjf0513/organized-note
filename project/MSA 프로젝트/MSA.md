@@ -58,7 +58,10 @@ Microservice architectures are the ‘new normal’. Building small, self-contai
 
 ### 하면서 배운 점
 * actuator를 http로 이용하고 싶으면, spring-starter-web 의존성을 추가해야 된다.
-* 
+
+### 해결해야 될 문제
+* actuator를 사용하고 싶은데, 의존성이 설치가 안된다. (gradle을 통해)
+
 ### 참고 문헌
 
 1. [MSA 프로젝트 구조 참고](https://wonit.tistory.com/506)
