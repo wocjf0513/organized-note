@@ -81,6 +81,7 @@ Microservice architectures are the ‘new normal’. Building small, self-contai
 
 ## 하면서 배운 점
 * actuator를 http로 이용하고 싶으면, spring-starter-web 의존성을 추가해야 된다.
+* Spring Cloud Gateway는 Spring Boot 프로젝트로 개발된 것이며, 내부적으로 Spring Boot의 기능을 활용합니다. **Spring Cloud Gateway는 HTTP 요청을 라우팅하고 필터링하는 데 사용되며, 이러한 작업을 위해 Spring Boot의 웹 기능을 활용**합니다. 따라서 Spring Boot Starter Web 의존성을 추가해야 합니다.
 
 ## 해결해야 될 문제
 * actuator를 사용하고 싶은데, 의존성이 설치가 안된다. (gradle을 통해)
