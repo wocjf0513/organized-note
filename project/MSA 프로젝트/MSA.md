@@ -53,7 +53,7 @@ Microservice architectures are the ‘new normal’. Building small, self-contai
 ![[Pasted image 20230929125849.png]]
 
 ### Gradle 명령어
-
+* gradlew build --refresh-dependencies : 새로 추가한 의존성을 설치해준다.
 
 ### 참고 문헌
 
