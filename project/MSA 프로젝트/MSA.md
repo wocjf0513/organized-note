@@ -83,6 +83,15 @@ Microservice architectures are the ‘new normal’. Building small, self-contai
 * actuator를 http로 이용하고 싶으면, spring-starter-web 의존성을 추가해야 된다.
 * Spring Cloud Gateway는 Spring Boot 프로젝트로 개발된 것이며, 내부적으로 Spring Boot의 기능을 활용합니다. **Spring Cloud Gateway는 HTTP 요청을 라우팅하고 필터링하는 데 사용되며, 이러한 작업을 위해 Spring Boot의 웹 기능을 활용**합니다. 따라서 Spring Boot Starter Web 의존성을 추가해야 합니다.
 
+## 에러
+```
+Network level connection to peer localhost; retrying after delay
+```
+➡️ eureka.client.service-url.defaultZone=http://localhost:${server.port}/eureka/
+설정하거나 기본포트(8761)를 사용한다.
+
+	Eureka 기본 포트는 8761이다. Eureka Server가 등록되어 있는 인스턴스에 ping하면서 자기자신을 호출하게 되는데,  기본 포트로 호출하게 되기 때문에 에러가 생긴다.
+
 ## 해결해야 될 문제
 * actuator를 사용하고 싶은데, 의존성이 설치가 안된다. (gradle을 통해)
 ➡️ intellij cash를 삭제해줬다. ( shift x2=> invalidate cashes )
