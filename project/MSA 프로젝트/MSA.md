@@ -9,9 +9,14 @@ Microservice architectures are the ‘new normal’. Building small, self-contai
 ### 프로젝트 구조
 
 ![[Pasted image 20230929121824.png]]
-* Service Mesh : 마이크로서비스 간 통신을 처리하기 위한 전용 인프라 레이어 
-
+* **Service Mesh** : 마이크로서비스 간 통신을 처리하기 위한 전용 인프라(기술적 환경) 레이어  
 	a dedicated infrastructure layer that is responsible for handling communication between microservices in a distributed application.
+
+* **Eureka Server** : MSA와 관련된 어플리케이션에서 서비스 등록, 검색(위치 및 엔드포인트 동적 검색) 및 로드밸런싱을 관리한다.
+
+* **Gateway Server** : 
+
+
 
 
 ### 참고 문헌
