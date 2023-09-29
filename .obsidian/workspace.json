@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/취업/자소서/SK C&C.md",
+                "file": "project/MSA 프로젝트/MSA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project/취업/자소서/SK C&C.md",
+                "file": "project/MSA 프로젝트/MSA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "project/취업/자소서/SK C&C.md",
+                "file": "project/MSA 프로젝트/MSA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/취업/자소서/SK C&C.md"
+                "file": "project/MSA 프로젝트/MSA.md"
               }
             }
           },
@@ -157,9 +157,12 @@
   },
   "active": "3362987e67e7ba4c",
   "lastOpenFiles": [
+    "project/자동차 면허 따기/기능 시험 정리.md",
+    "project/MSA 프로젝트/MSA.md",
+    "project/MSA 프로젝트",
+    "project/취업/자소서/SK C&C.md",
     "project/취업/자소서/NTS.md",
     "project/취업/자소서/SK 쉴더스.md",
-    "project/취업/자소서/SK C&C.md",
     "project/취업/자소서/한화시스템 웹 개발.md",
     "project/취업/자소서/현대오토에버.md",
     "project/취업/취업 관련 현황.md",
@@ -184,9 +187,7 @@
     "area/IntelliJ",
     "resources/CS/데이터베이스/Mysql 쿼리문 정리.md",
     "project/그룹스터디",
-    "project/취업/소스/경험 리스트.md",
     "img/한화 시스템 직무.png",
-    "project/취업/자소서/한화시스템 기업분석.md",
     "area/Git",
     "todo",
     "img/청운위 명찰(심군).png",
@@ -199,7 +200,6 @@
     "project/자동차 면허 따기",
     "project/성남시 청운위",
     "면접 대비 프로젝트 정리.docx",
-    "삼성 면접 과정 정리.docx",
     "img/모음표.png",
     "project/말 잘하기/말 잘하는 방법.canvas",
     "Pasted image 20230920103354.png",
