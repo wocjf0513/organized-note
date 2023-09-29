@@ -16,7 +16,14 @@ Microservice architectures are the ‘new normal’. Building small, self-contai
 
 * **Gateway Server** : 네트워크 간 통신을 중개하거나 연걸하기 위해 사용되는 서버
 
-### Eureka Server
+### 프로젝트 설정
+* Port 설정
+	* Eureka Server : 8081
+	* Gateway Server : 8082
+	* 
+
+
+## Eureka Server
 
 #### 기능
 * 서비스 검색 : 각각의 서비스 위치 파악
@@ -48,18 +55,32 @@ Microservice architectures are the ‘new normal’. Building small, self-contai
 
 
 
-### Gateway Server
+## Gateway Server
 
 ![[Pasted image 20230929125849.png]]
+#### 용어
+* Route : URI와 Predicates, Filter를 이용 어디로 Routing할지 명시한다.
+* Predicate : 조건 (예) predicated: -Path=/user/**
+* Filter : 요청, 응답의 수정 및 헤더 조작이 가능하다.
+* Gateway Hadler Mapping : Gateway를 Client의 요청으로부터 Mapping하는 작업을 한다.
 
-### Gradle 명령어
+#### 과정
+![[Pasted image 20230929145246.png]]
+1. Client 는 Spring Cloud Gateway 에 요청을 보낸다.
+2. Gateway Handler Mapping 에서 해당 요청에 대한 Route와 Predicates가 일치한다고 판단하면 해당 요청은 Gateway Web handler로 보내진다.
+3. handler 에서 Filter Chain 을 이용해서 **사전 필터** 혹은 **사후 필터**로 나누어 동작한다.
+4. 필터링이 된 후 실제 마이크로서비스에게 전달된다.
+
+
+
+## Gradle 명령어
 * gradlew build --refresh-dependencies : 새로 추가한 의존성을 설치해준다.
 
 
-### 하면서 배운 점
+## 하면서 배운 점
 * actuator를 http로 이용하고 싶으면, spring-starter-web 의존성을 추가해야 된다.
 
-### 해결해야 될 문제
+## 해결해야 될 문제
 * actuator를 사용하고 싶은데, 의존성이 설치가 안된다. (gradle을 통해)
 
 ### 참고 문헌
