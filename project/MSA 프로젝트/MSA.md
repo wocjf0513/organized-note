@@ -85,6 +85,10 @@ Microservice architectures are the ‘new normal’. Building small, self-contai
 
 ## 해결해야 될 문제
 * actuator를 사용하고 싶은데, 의존성이 설치가 안된다. (gradle을 통해)
+➡️ intellij cash를 삭제해줬다. ( shift x2=> invalidate cashes )
+
+### 추가로 배워야 할 점
+* webflux 와 web의 차이
 
 ### 참고 문헌
 
