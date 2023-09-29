@@ -16,7 +16,6 @@ Microservice architectures are the ‘new normal’. Building small, self-contai
 
 * **Gateway Server** : 네트워크 간 통신을 중개하거나 연걸하기 위해 사용되는 서버
 
-
 ### Eureka Server
 
 #### 기능
@@ -47,9 +46,14 @@ Microservice architectures are the ‘new normal’. Building small, self-contai
 
 
 
+
+
 ### Gateway Server
 
 ![[Pasted image 20230929125849.png]]
+
+### Gradle 명령어
+
 
 ### 참고 문헌
 
