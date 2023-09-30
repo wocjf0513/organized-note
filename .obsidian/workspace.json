@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/MSA 프로젝트/MSA.md",
+                "file": "resources/CS/알고리즘/해시맵.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project/MSA 프로젝트/MSA.md",
+                "file": "resources/CS/알고리즘/해시맵.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "project/MSA 프로젝트/MSA.md",
+                "file": "resources/CS/알고리즘/해시맵.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/MSA 프로젝트/MSA.md"
+                "file": "resources/CS/알고리즘/해시맵.md"
               }
             }
           },
@@ -156,8 +155,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b404cc0958ca10d7",
+  "active": "3362987e67e7ba4c",
   "lastOpenFiles": [
+    "project/MSA 프로젝트/MSA.md",
     "Pasted image 20230929145246.png",
     "Pasted image 20230929125849.png",
     "Pasted image 20230929125706.png",
@@ -166,7 +166,6 @@
     "img/Pasted image 20230929121824.png",
     "Pasted image 20230929115549.png",
     "Pasted image 20230929120900.png",
-    "project/MSA 프로젝트/MSA.md",
     "project/자동차 면허 따기/기능 시험 정리.md",
     "project/MSA 프로젝트",
     "project/취업/자소서/SK C&C.md",
@@ -198,7 +197,6 @@
     "img/한화 시스템 직무.png",
     "area/Git",
     "todo",
-    "img/청운위 명찰(심군).png",
     "resources/CS/데이터베이스",
     "resources/무제 폴더",
     "project/자동차 면허 따기",

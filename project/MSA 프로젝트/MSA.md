@@ -39,23 +39,6 @@ Microservice architectures are the ‘new normal’. Building small, self-contai
 3. Eureka 서버는 자신에게 등록된 Eureka Client 에게 30초마다 Ping을 보내며 Health Checking을 수행한다.
 4. 만약 30초마다 보내는 Heart Heat가 일정 횟수 이상으로 동작되지 않으면 Eureka Server는 해당 Client를 삭제한다.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Gateway Server
 
 ![[Pasted image 20230929125849.png]]
@@ -78,10 +61,9 @@ Microservice architectures are the ‘new normal’. Building small, self-contai
 ## Gradle 명령어
 * gradlew build --refresh-dependencies : 새로 추가한 의존성을 설치해준다.
 
-
 ## 하면서 배운 점
 * actuator를 http로 이용하고 싶으면, spring-starter-web 의존성을 추가해야 된다.
-* Spring Cloud Gateway는 Spring Boot 프로젝트로 개발된 것이며, 내부적으로 Spring Boot의 기능을 활용합니다. **Spring Cloud Gateway는 HTTP 요청을 라우팅하고 필터링하는 데 사용되며, 이러한 작업을 위해 Spring Boot의 웹 기능을 활용**합니다. 따라서 Spring Boot Starter Web 의존성을 추가해야 합니다.
+* Spring Cloud Gateway는 Spring Boot 프로젝트로 개발된 것이며, 내부적으로 Spring Boot의 기능을 활용합니다. **Spring Cloud Gateway는 HTTP 요청을 라우팅하고 필터링하는 데 사용되며, 이러한 작업을 위해 Spring Boot의 웹 기능을 활용**합니다. 따라서 Spring Boot Starter Webflux를 추가해야 합니다.
 
 ## 에러
 ```
