@@ -8,4 +8,12 @@
 막을 수 있다.
 ```
 
-
+### 궁금한 거 해결
+```
+@Test  
+void contextLoads() {  
+  
+}
+```
+ to verify if the application is able to load Spring context successfully or not.
+ 실제로 구현이 없는 contextLoad는 Spring context가 완벽하게 로드되는지 테스트한다.
