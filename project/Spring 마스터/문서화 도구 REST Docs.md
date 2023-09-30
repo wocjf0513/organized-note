@@ -54,56 +54,44 @@ void contextLoads() {
 * testImplementation 'org.springframework.restdocs:spring-restdocs-mockmvc'
 ### build.gradle
 
-```java
-tasks.named('bootJar') {  
-    from ("${asciidoctor.outputDir}/html5") {  
-       into 'static/docs'  
-    }  
-    dependsOn asciidoctor  
-}
-```
-
 * plugin 추가
-```java
+``` java
 plugins {
     id 'org.springframework.boot' version '2.5.2'
     id 'io.spring.dependency-management' version '1.0.11.RELEASE'
     id 'java'
     id "org.asciidoctor.jvm.convert" version "3.3.2"
 }
-```
 
-* 전역변수 설정
-```java
-ext {
-    snippetsDir = file('build/generated-snippets')
+ext {  
+    set('snippetsDir', file("build/generated-snippets"))  
 }
-```
 
-* asciidoctor 추가
-```java
-asciidoctor {
-    dependsOn test
-    inputs.dir snippetsDir
+tasks.named('test') {  
+    outputs.dir snippetsDir  
+    useJUnitPlatform()  
+}  
+  
+tasks.named('asciidoctor') {  
+    inputs.dir snippetsDir  
+    dependsOn test  
+}  
+  
+tasks.named('bootJar') {  
+    from ("${asciidoctor.outputDir}/html5") {  
+       into 'static/docs'  
+    }  
+    dependsOn asciidoctor  
 }
-```
 
-* bootjar 추가
-```java
-bootJar {
-    dependsOn asciidoctor
-    copy {
-        from "${asciidoctor.outputDir}"
-        into 'BOOT-INF/classes/static/docs'
-    }
-}
-```
-copyDocument
-```java
 task copyDocument(type: Copy) {
     dependsOn asciidoctor
     from file("build/docs/asciidoc")
     into file("src/main/resources/static/docs")
+}
+
+build {  
+    dependsOn copyDocument  
 }
 ```
 

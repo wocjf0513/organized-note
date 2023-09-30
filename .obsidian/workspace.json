@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "078734d403497156",
+        "id": "79b7559f565a9578",
         "type": "tabs",
         "children": [
           {
-            "id": "3362987e67e7ba4c",
+            "id": "f0ab2da699967c53",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -155,10 +155,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3362987e67e7ba4c",
+  "active": "f0ab2da699967c53",
   "lastOpenFiles": [
-    "project/IntelliJ/단축키.md",
+    "2023-10-01.md",
     "project/Spring 마스터/문서화 도구 REST Docs.md",
+    "project/IntelliJ/단축키.md",
     "img/Pasted image 20231001033903.png",
     "resources/CS/알고리즘/해시맵.md",
     "project/Spring 마스터",
