@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources/CS/알고리즘/해시맵.md",
+                "file": "project/Spring 마스터/문서화 도구 REST Docs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/CS/알고리즘/해시맵.md",
+                "file": "project/Spring 마스터/문서화 도구 REST Docs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources/CS/알고리즘/해시맵.md",
+                "file": "project/Spring 마스터/문서화 도구 REST Docs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources/CS/알고리즘/해시맵.md"
+                "file": "project/Spring 마스터/문서화 도구 REST Docs.md"
               }
             }
           },
@@ -157,6 +157,9 @@
   },
   "active": "3362987e67e7ba4c",
   "lastOpenFiles": [
+    "resources/CS/알고리즘/해시맵.md",
+    "project/Spring 마스터/문서화 도구 REST Docs.md",
+    "project/Spring 마스터",
     "project/MSA 프로젝트/MSA.md",
     "Pasted image 20230929145246.png",
     "Pasted image 20230929125849.png",
@@ -190,7 +193,6 @@
     "project/취업/자소서/아성 다이소.md",
     "project/그룹스터디/MVC.md",
     "todo/2023-09-21.md",
-    "project/목표.md",
     "Pasted image 20230924230631.png",
     "area/IntelliJ",
     "project/그룹스터디",
@@ -201,7 +203,6 @@
     "resources/무제 폴더",
     "project/자동차 면허 따기",
     "project/성남시 청운위",
-    "면접 대비 프로젝트 정리.docx",
     "project/말 잘하기/말 잘하는 방법.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
