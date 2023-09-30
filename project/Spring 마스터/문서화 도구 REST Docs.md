@@ -19,7 +19,8 @@ testImplementation 'org.springframework.restdocs:spring-restdocs-mockmvc'
 ```
 
 ## MockMvc
-
+	MockMVC를 사용하면 실제 웹 서버를 실행하지 않고도 컨트롤러의 동작을 시뮬레이트하고 테스트할 수 있습니다.
+	
 
 
 ### 궁금한 거 해결
