@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/Spring 마스터/문서화 도구 REST Docs.md",
+                "file": "project/IntelliJ/단축키.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project/Spring 마스터/문서화 도구 REST Docs.md",
+                "file": "project/IntelliJ/단축키.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "project/Spring 마스터/문서화 도구 REST Docs.md",
+                "file": "project/IntelliJ/단축키.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/Spring 마스터/문서화 도구 REST Docs.md"
+                "file": "project/IntelliJ/단축키.md"
               }
             }
           },
@@ -155,10 +155,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3362987e67e7ba4c",
+  "active": "01f8eac3f827a123",
   "lastOpenFiles": [
-    "img/Pasted image 20231001033903.png",
     "project/Spring 마스터/문서화 도구 REST Docs.md",
+    "img/Pasted image 20231001033903.png",
     "resources/CS/알고리즘/해시맵.md",
     "project/Spring 마스터",
     "arcive/MSA 프로젝트/MSA.md",
@@ -178,7 +178,7 @@
     "project/취업/자소서/한화시스템 웹 개발.md",
     "project/취업/자소서/현대오토에버.md",
     "project/취업/취업 관련 현황.md",
-    "area/IntelliJ/단축키.md",
+    "project/IntelliJ/단축키.md",
     "project/취업/자소서/롯데정보통신.md",
     "project/취업/자소서/CJ 네트웍스.md",
     "project/취업/자소서/CGV 자기소개서.md",
@@ -194,9 +194,9 @@
     "project/취업/자소서/아성 다이소.md",
     "project/그룹스터디/MVC.md",
     "Pasted image 20230924230631.png",
-    "area/IntelliJ",
+    "project/IntelliJ",
     "project/그룹스터디",
-    "area/Git",
+    "project/Git",
     "todo",
     "resources/CS/데이터베이스",
     "resources/무제 폴더",
