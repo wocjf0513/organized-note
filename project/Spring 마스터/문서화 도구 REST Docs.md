@@ -50,9 +50,9 @@ void contextLoads() {
 
 
 
-
 ## 의존성
-*   testImplementation 'org.springframework.restdocs:spring-restdocs-mockmvc'
+* testImplementation 'org.springframework.restdocs:spring-restdocs-mockmvc'
+### build.gradle
 
 ```java
 tasks.named('bootJar') {  
@@ -62,6 +62,74 @@ tasks.named('bootJar') {
     dependsOn asciidoctor  
 }
 ```
+
+* plugin 추가
+```java
+plugins {
+    id 'org.springframework.boot' version '2.5.2'
+    id 'io.spring.dependency-management' version '1.0.11.RELEASE'
+    id 'java'
+    id "org.asciidoctor.jvm.convert" version "3.3.2"
+}
+```
+
+* 전역변수 설정
+```java
+ext {
+    snippetsDir = file('build/generated-snippets')
+}
+```
+
+* asciidoctor 추가
+```java
+asciidoctor {
+    dependsOn test
+    inputs.dir snippetsDir
+}
+```
+
+* bootjar 추가
+```java
+bootJar {
+    dependsOn asciidoctor
+    copy {
+        from "${asciidoctor.outputDir}"
+        into 'BOOT-INF/classes/static/docs'
+    }
+}
+```
+copyDocument
+```java
+task copyDocument(type: Copy) {
+    dependsOn asciidoctor
+    from file("build/docs/asciidoc")
+    into file("src/main/resources/static/docs")
+}
+```
+
+## Test Code
+```java
+@Test  
+public void testInfo() throws Exception {  
+    this.mockMvc.perform(RestDocumentationRequestBuilders.get("/info")  
+                .accept(MediaType.APPLICATION_JSON))  
+          .andExpect(status().isOk())  
+          .andDo(document("getInfo"));  
+}
+```
+## index.adoc
+```java
+ifndef::snippets[]  
+:snippets: ./build/generated-snippets  
+endif::[]  
+= Test Service  
+  
+== Test API  
+=== getInfo()  
+include::{snippets}/getInfo/httpie-request.adoc[]  
+include::{snippets}/getInfo/http-response.adoc[]
+```
+
 ## 자동 생성 Snippets
 ### Snippets이란?
 : Snippet은 원본 자료의 일부를 선택적으로 가져와서 무엇인가를 설명하거나 보여주는 데 사용
@@ -76,8 +144,6 @@ tasks.named('bootJar') {
 
 * request-body.adoc
 * response-body.adoc
-
-
 
 
 ## 에러 해결
