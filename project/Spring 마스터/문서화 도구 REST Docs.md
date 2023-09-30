@@ -50,6 +50,18 @@ void contextLoads() {
 
 
 
+
+## 의존성
+*   testImplementation 'org.springframework.restdocs:spring-restdocs-mockmvc'
+
+```java
+tasks.named('bootJar') {  
+    from ("${asciidoctor.outputDir}/html5") {  
+       into 'static/docs'  
+    }  
+    dependsOn asciidoctor  
+}
+```
 ## 자동 생성 Snippets
 ### Snippets이란?
 : Snippet은 원본 자료의 일부를 선택적으로 가져와서 무엇인가를 설명하거나 보여주는 데 사용
@@ -66,3 +78,10 @@ void contextLoads() {
 * response-body.adoc
 
 
+
+
+## 에러 해결
+```
+Unresolved directive in index.adoc
+```
+다음과 같은 에러시 ,
