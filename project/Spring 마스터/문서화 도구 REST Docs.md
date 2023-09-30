@@ -85,3 +85,15 @@ tasks.named('bootJar') {
 Unresolved directive in index.adoc
 ```
 다음과 같은 에러시 ,
+```
+ifndef::snippets[]  
+:snippets: ./build/generated-snippets  
+endif::[]  
+= Test Service  
+  
+== Test API  
+=== getInfo()  
+include::{snippets}/getInfo/httpie-request.adoc[]  
+include::{snippets}/getInfo/http-response.adoc[]
+```
+경로 설정을 다음과 같이 한다. 
