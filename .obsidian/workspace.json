@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/취업/소스/경험 리스트.md",
+                "file": "project/취업/자소서/한화시스템 웹 개발.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project/취업/소스/경험 리스트.md",
+                "file": "project/취업/자소서/한화시스템 웹 개발.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "project/취업/소스/경험 리스트.md",
+                "file": "project/취업/자소서/한화시스템 웹 개발.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/취업/소스/경험 리스트.md"
+                "file": "project/취업/자소서/한화시스템 웹 개발.md"
               }
             }
           },
@@ -157,9 +157,23 @@
   },
   "active": "f0ab2da699967c53",
   "lastOpenFiles": [
-    "project/취업/취업 관련 현황.md",
-    "project/취업/자소서/SK 쉴더스.md",
+    "project/취업/자소서/한화시스템.md",
+    "project/취업/자소서/한미사이언스.md",
+    "project/취업/자소서/에스원.md",
+    "project/취업/자소서/아성 다이소.md",
+    "project/취업/자소서/신한은행.md",
+    "project/취업/자소서/순환출차.md",
+    "project/취업/자소서/미라콤 아이앤씨.md",
+    "project/취업/자소서/롯데정보통신.md",
+    "project/취업/자소서/다우기술.md",
+    "project/취업/자소서/가비아.md",
+    "project/취업/자소서/KCC.md",
+    "project/취업/자소서/KT.md",
+    "project/취업/자소서/NTS.md",
     "project/취업/자소서/SK C&C.md",
+    "project/취업/자소서/SK 쉴더스.md",
+    "project/취업/소스/경험 리스트.md",
+    "project/취업/취업 관련 현황.md",
     "project/Git/Git Commit 제대로 하기.md",
     "project/IntelliJ/단축키.md",
     "project/Spring 마스터/문서화 도구 REST Docs.md",
@@ -178,22 +192,8 @@
     "Pasted image 20230929120900.png",
     "project/자동차 면허 따기/기능 시험 정리.md",
     "arcive/MSA 프로젝트",
-    "project/취업/자소서/NTS.md",
     "project/취업/자소서/한화시스템 웹 개발.md",
     "project/취업/자소서/현대오토에버.md",
-    "project/취업/자소서/롯데정보통신.md",
-    "project/취업/자소서/CJ 네트웍스.md",
-    "project/취업/자소서/CGV 자기소개서.md",
-    "project/취업/자소서/가비아.md",
-    "project/취업/자소서/한화시스템.md",
-    "project/취업/자소서/현대 IT & E.md",
-    "project/취업/자소서/KT.md",
-    "project/취업/자소서/LIG 넥스원.md",
-    "project/취업/자소서/미라콤 아이앤씨.md",
-    "project/취업/자소서/신한은행.md",
-    "project/취업/자소서/에스원.md",
-    "project/취업/자소서/KCC.md",
-    "project/취업/자소서/아성 다이소.md",
     "Pasted image 20230924230631.png",
     "project/IntelliJ",
     "project/그룹스터디",
