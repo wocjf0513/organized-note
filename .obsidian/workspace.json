@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/IntelliJ/단축키.md",
+                "file": "project/취업/취업 관련 현황.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project/IntelliJ/단축키.md",
+                "file": "project/취업/취업 관련 현황.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "project/IntelliJ/단축키.md",
+                "file": "project/취업/취업 관련 현황.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/IntelliJ/단축키.md"
+                "file": "project/취업/취업 관련 현황.md"
               }
             }
           },
@@ -157,9 +157,10 @@
   },
   "active": "f0ab2da699967c53",
   "lastOpenFiles": [
+    "project/Git/Git Commit 제대로 하기.md",
+    "project/IntelliJ/단축키.md",
     "project/Spring 마스터/문서화 도구 REST Docs.md",
     "2023-10-01.md",
-    "project/IntelliJ/단축키.md",
     "img/Pasted image 20231001033903.png",
     "resources/CS/알고리즘/해시맵.md",
     "project/Spring 마스터",
@@ -193,7 +194,6 @@
     "project/취업/자소서/에스원.md",
     "project/취업/자소서/KCC.md",
     "project/취업/자소서/아성 다이소.md",
-    "project/그룹스터디/MVC.md",
     "Pasted image 20230924230631.png",
     "project/IntelliJ",
     "project/그룹스터디",
