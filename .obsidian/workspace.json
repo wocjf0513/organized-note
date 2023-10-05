@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/취업/취업 관련 현황.md",
+                "file": "project/취업/DB INC가 무엇인가.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project/취업/취업 관련 현황.md",
+                "file": "project/취업/DB INC가 무엇인가.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "project/취업/취업 관련 현황.md",
+                "file": "project/취업/DB INC가 무엇인가.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/취업/취업 관련 현황.md"
+                "file": "project/취업/DB INC가 무엇인가.md"
               }
             }
           },
@@ -156,6 +156,8 @@
   },
   "active": "f0ab2da699967c53",
   "lastOpenFiles": [
+    "project/취업/취업 관련 현황.md",
+    "project/취업/DB INC가 무엇인가.md",
     "project/취업/자소서/KT.md",
     "project/취업/자소서/한화시스템 웹 개발.md",
     "project/취업/자소서/한화시스템.md",
@@ -179,9 +181,7 @@
     "project/취업/자소서/현대오토에버.md",
     "project/취업/자소서/현대 IT & E.md",
     "project/취업/자소서/무제 파일.md",
-    "project/취업/취업 관련 현황.md",
     "project/취업/소스/경험 리스트.md",
-    "project/Git/Git Commit 제대로 하기.md",
     "img/Pasted image 20231001033903.png",
     "project/Spring 마스터",
     "img/Pasted image 20230929145246.png",
