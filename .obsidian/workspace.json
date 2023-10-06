@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "area/Spring IoC , DI.md",
+                "file": "project/취업/취업 관련 현황.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "area/Spring IoC , DI.md",
+                "file": "project/취업/취업 관련 현황.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "area/Spring IoC , DI.md",
+                "file": "project/취업/취업 관련 현황.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "area/Spring IoC , DI.md"
+                "file": "project/취업/취업 관련 현황.md"
               }
             }
           },
@@ -157,9 +157,9 @@
   },
   "active": "f0ab2da699967c53",
   "lastOpenFiles": [
+    "area/Spring IoC , DI.md",
     "Pasted image 20231006120103.png",
     "area/빌드.md",
-    "area/Spring IoC , DI.md",
     "project/취업/자소서/SK C&C.md",
     "project/취업/자소서/KT.md",
     "project/취업/취업 관련 현황.md",
@@ -193,7 +193,6 @@
     "img/Pasted image 20230929124808.png",
     "img/Pasted image 20230929124749.png",
     "img/Pasted image 20230929121824.png",
-    "Pasted image 20230929115549.png",
     "arcive/MSA 프로젝트",
     "project/IntelliJ",
     "project/그룹스터디",
