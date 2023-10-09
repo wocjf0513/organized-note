@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/취업/삼성/삼성 적성검사.md",
+                "file": "project/우아한테크코스/2024 신입생 모집.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project/취업/삼성/삼성 적성검사.md",
+                "file": "project/우아한테크코스/2024 신입생 모집.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "project/취업/삼성/삼성 적성검사.md",
+                "file": "project/우아한테크코스/2024 신입생 모집.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/취업/삼성/삼성 적성검사.md"
+                "file": "project/우아한테크코스/2024 신입생 모집.md"
               }
             }
           },
@@ -157,13 +157,16 @@
   },
   "active": "f0ab2da699967c53",
   "lastOpenFiles": [
+    "project/취업/취업 관련 현황.md",
+    "project/우아한테크코스/2024 신입생 모집.md",
+    "project/우아한테크코스",
+    "project/취업/삼성/삼성 적성검사.md",
     "Pasted image 20231009143451.png",
     "Pasted image 20231009142902.png",
     "Pasted image 20231009142851.png",
     "Pasted image 20231009142846.png",
     "Pasted image 20231009142617.png",
     "area/여행/수연이와 일본 여행 계획!.md",
-    "project/취업/삼성/삼성 적성검사.md",
     "project/취업/삼성",
     "img/Pasted image 20231005155258.png",
     "project/취업/자소서/에스원.md",
@@ -175,7 +178,6 @@
     "project/취업/자소서/NTS.md",
     "project/취업/자소서/SK 쉴더스.md",
     "project/취업/자소서/SK C&C.md",
-    "project/취업/취업 관련 현황.md",
     "area/Spring IoC , DI.md",
     "img/Pasted image 20231006120103.png",
     "area/빌드.md",
@@ -195,14 +197,12 @@
     "img/Pasted image 20231001033903.png",
     "project/Spring 마스터",
     "img/Pasted image 20230929145246.png",
-    "img/Pasted image 20230929125849.png",
     "arcive/MSA 프로젝트",
     "project/IntelliJ",
     "project/그룹스터디",
     "project/Git",
     "todo",
     "resources/CS/데이터베이스",
-    "resources/무제 폴더",
     "project/말 잘하기/말 잘하는 방법.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
