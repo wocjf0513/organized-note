@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "area/여행/수연이와 일본 여행 계획!.md",
+                "file": "project/취업/삼성/삼성 적성검사.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "area/여행/수연이와 일본 여행 계획!.md",
+                "file": "project/취업/삼성/삼성 적성검사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "area/여행/수연이와 일본 여행 계획!.md",
+                "file": "project/취업/삼성/삼성 적성검사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "area/여행/수연이와 일본 여행 계획!.md"
+                "file": "project/취업/삼성/삼성 적성검사.md"
               }
             }
           },
@@ -157,8 +157,14 @@
   },
   "active": "f0ab2da699967c53",
   "lastOpenFiles": [
-    "img/Pasted image 20231005155258.png",
+    "Pasted image 20231009142902.png",
+    "Pasted image 20231009142851.png",
+    "Pasted image 20231009142846.png",
+    "Pasted image 20231009142617.png",
     "area/여행/수연이와 일본 여행 계획!.md",
+    "project/취업/삼성/삼성 적성검사.md",
+    "project/취업/삼성",
+    "img/Pasted image 20231005155258.png",
     "project/취업/자소서/에스원.md",
     "area/여행",
     "project/무제 파일.md",
@@ -184,16 +190,12 @@
     "project/취업/자소서/한미사이언스.md",
     "project/취업/자소서/한화시스템 웹 개발.md",
     "project/취업/자소서/현대오토에버.md",
-    "project/취업/자소서/현대 IT & E.md",
     "img/Pasted image 20231006110058.png",
     "img/Pasted image 20231001033903.png",
     "project/Spring 마스터",
     "img/Pasted image 20230929145246.png",
     "img/Pasted image 20230929125849.png",
     "img/Pasted image 20230929125706.png",
-    "img/Pasted image 20230929124808.png",
-    "img/Pasted image 20230929124749.png",
-    "img/Pasted image 20230929121824.png",
     "arcive/MSA 프로젝트",
     "project/IntelliJ",
     "project/그룹스터디",
@@ -201,7 +203,6 @@
     "todo",
     "resources/CS/데이터베이스",
     "resources/무제 폴더",
-    "project/자동차 면허 따기",
     "project/말 잘하기/말 잘하는 방법.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
