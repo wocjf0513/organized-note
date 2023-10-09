@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "79b7559f565a9578",
+        "id": "69f8d53df0b76537",
         "type": "tabs",
         "children": [
           {
-            "id": "f0ab2da699967c53",
+            "id": "32ca1a799f1c40ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "인덱스",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -155,18 +156,20 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f0ab2da699967c53",
+  "active": "32ca1a799f1c40ea",
   "lastOpenFiles": [
-    "project/우아한테크코스/2024 신입생 모집.md",
+    "Pasted image 20231010082017.png",
+    "img/Pasted image 20231009143451.png",
+    "img/Pasted image 20231009142617.png",
+    "2023-10-01.md",
     "resources/CS/데이터베이스/인덱스 + 조인.md",
+    "project/우아한테크코스/2024 신입생 모집.md",
     "project/취업/취업 관련 현황.md",
     "project/우아한테크코스",
     "project/취업/삼성/삼성 적성검사.md",
-    "Pasted image 20231009143451.png",
-    "Pasted image 20231009142902.png",
-    "Pasted image 20231009142851.png",
-    "Pasted image 20231009142846.png",
-    "Pasted image 20231009142617.png",
+    "img/Pasted image 20231009142902.png",
+    "img/Pasted image 20231009142851.png",
+    "img/Pasted image 20231009142846.png",
     "area/여행/수연이와 일본 여행 계획!.md",
     "project/취업/삼성",
     "img/Pasted image 20231005155258.png",
@@ -191,8 +194,6 @@
     "project/취업/자소서/미라콤 아이앤씨.md",
     "project/취업/자소서/순환출차.md",
     "project/취업/자소서/신한은행.md",
-    "project/취업/자소서/한미사이언스.md",
-    "project/취업/자소서/한화시스템 웹 개발.md",
     "img/Pasted image 20231006110058.png",
     "img/Pasted image 20231001033903.png",
     "project/Spring 마스터",
