@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/우아한테크코스/2024 신입생 모집.md",
+                "file": "resources/CS/데이터베이스/인덱스 + 조인.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project/우아한테크코스/2024 신입생 모집.md",
+                "file": "resources/CS/데이터베이스/인덱스 + 조인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "project/우아한테크코스/2024 신입생 모집.md",
+                "file": "resources/CS/데이터베이스/인덱스 + 조인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/우아한테크코스/2024 신입생 모집.md"
+                "file": "resources/CS/데이터베이스/인덱스 + 조인.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "f0ab2da699967c53",
   "lastOpenFiles": [
-    "project/취업/취업 관련 현황.md",
     "project/우아한테크코스/2024 신입생 모집.md",
+    "resources/CS/데이터베이스/인덱스 + 조인.md",
+    "project/취업/취업 관련 현황.md",
     "project/우아한테크코스",
     "project/취업/삼성/삼성 적성검사.md",
     "Pasted image 20231009143451.png",
@@ -192,7 +193,6 @@
     "project/취업/자소서/신한은행.md",
     "project/취업/자소서/한미사이언스.md",
     "project/취업/자소서/한화시스템 웹 개발.md",
-    "project/취업/자소서/현대오토에버.md",
     "img/Pasted image 20231006110058.png",
     "img/Pasted image 20231001033903.png",
     "project/Spring 마스터",
