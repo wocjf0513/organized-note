@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources/CS/데이터베이스/인덱스 + 조인.md",
+                "file": "project/취업/자소서/KT.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "인덱스",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/CS/데이터베이스/인덱스 + 조인.md",
+                "file": "project/취업/자소서/KT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources/CS/데이터베이스/인덱스 + 조인.md",
+                "file": "project/취업/자소서/KT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources/CS/데이터베이스/인덱스 + 조인.md"
+                "file": "project/취업/자소서/KT.md"
               }
             }
           },
@@ -158,6 +157,7 @@
   },
   "active": "32ca1a799f1c40ea",
   "lastOpenFiles": [
+    "resources/CS/데이터베이스/인덱스 + 조인.md",
     "Pasted image 20231010160710.png",
     "Pasted image 20231010160525.png",
     "Pasted image 20231010160508.png",
@@ -167,14 +167,12 @@
     "무제 폴더 1",
     "무제 폴더",
     "img/Pasted image 20231010154444.png",
-    "resources/CS/데이터베이스/인덱스 + 조인.md",
     "img/Pasted image 20231010154327.png",
     "img/Pasted image 20231010154250.png",
     "img/Pasted image 20231010153819.png",
     "img/Pasted image 20231010153709.png",
     "project/취업/취업 관련 현황.md",
     "img/Pasted image 20231010150510.png",
-    "img/Pasted image 20231010143930.png",
     "project/Spring 마스터/프로그래밍하면서 주의할 점.md",
     "project/Spring 마스터/문서화 도구 REST Docs.md",
     "2023-10-01.md",
