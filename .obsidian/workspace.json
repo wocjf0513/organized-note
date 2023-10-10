@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/Spring 마스터/프로그래밍하면서 주의할 점.md",
+                "file": "project/취업/취업 관련 현황.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project/Spring 마스터/프로그래밍하면서 주의할 점.md",
+                "file": "project/취업/취업 관련 현황.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "project/Spring 마스터/프로그래밍하면서 주의할 점.md",
+                "file": "project/취업/취업 관련 현황.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/Spring 마스터/프로그래밍하면서 주의할 점.md"
+                "file": "project/취업/취업 관련 현황.md"
               }
             }
           },
@@ -157,9 +157,9 @@
   },
   "active": "32ca1a799f1c40ea",
   "lastOpenFiles": [
+    "project/Spring 마스터/프로그래밍하면서 주의할 점.md",
     "project/Spring 마스터/문서화 도구 REST Docs.md",
     "강의 키워드.md",
-    "project/Spring 마스터/프로그래밍하면서 주의할 점.md",
     "Pasted image 20231010113459.png",
     "Pasted image 20231010105112.png",
     "resources/CS/데이터베이스/인덱스 + 조인.md",
