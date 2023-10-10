@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/취업/자소서/아성 다이소.md",
+                "file": "project/취업/자소서/KT.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "slack",
+                "query": "핵심 역량",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project/취업/자소서/아성 다이소.md",
+                "file": "project/취업/자소서/KT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "project/취업/자소서/아성 다이소.md",
+                "file": "project/취업/자소서/KT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/취업/자소서/아성 다이소.md"
+                "file": "project/취업/자소서/KT.md"
               }
             }
           },
@@ -158,12 +158,12 @@
   },
   "active": "32ca1a799f1c40ea",
   "lastOpenFiles": [
-    "project/취업/자소서/현대오토에버.md",
     "project/취업/자소서/한화시스템 웹 개발.md",
     "project/취업/자소서/한화시스템.md",
     "project/취업/자소서/한미사이언스.md",
     "project/취업/자소서/아성 다이소.md",
     "project/취업/자소서/가비아.md",
+    "project/취업/자소서/현대오토에버.md",
     "project/취업/자소서/SK 쉴더스.md",
     "project/취업/자소서/SK C&C.md",
     "project/취업/자소서/넥토리얼.md",
