@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의 키워드.md",
+                "file": "resources/CS/데이터베이스/인덱스 + 조인.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "인덱",
+                "query": "인덱스",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "resources/CS/데이터베이스/인덱스 + 조인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "resources/CS/데이터베이스/인덱스 + 조인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "resources/CS/데이터베이스/인덱스 + 조인.md"
               }
             }
           },
@@ -153,8 +156,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "01f8eac3f827a123",
+  "active": "32ca1a799f1c40ea",
   "lastOpenFiles": [
+    "Pasted image 20231010160525.png",
+    "Pasted image 20231010160508.png",
+    "Pasted image 20231010160424.png",
     "강의 키워드.md",
     "무제 파일.md",
     "무제 폴더 1",
@@ -171,8 +177,6 @@
     "project/Spring 마스터/프로그래밍하면서 주의할 점.md",
     "project/Spring 마스터/문서화 도구 REST Docs.md",
     "img/Pasted image 20231010113459.png",
-    "img/Pasted image 20231010105112.png",
-    "img/Pasted image 20231010082858.png",
     "2023-10-01.md",
     "project/우아한테크코스/2024 신입생 모집.md",
     "project/우아한테크코스",
@@ -195,7 +199,6 @@
     "project/취업/자소서/CGV 자기소개서.md",
     "project/취업/자소서/CJ 네트웍스.md",
     "project/취업/자소서/다우기술.md",
-    "project/취업/자소서/롯데정보통신.md",
     "project/Spring 마스터",
     "arcive/MSA 프로젝트",
     "project/IntelliJ",
