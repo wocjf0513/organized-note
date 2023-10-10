@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "인덱스",
+                "query": "인덱",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -157,15 +158,15 @@
   },
   "active": "32ca1a799f1c40ea",
   "lastOpenFiles": [
+    "project/취업/취업 관련 현황.md",
+    "resources/CS/데이터베이스/인덱스 + 조인.md",
     "Pasted image 20231010150510.png",
     "Pasted image 20231010143930.png",
-    "project/취업/취업 관련 현황.md",
     "project/Spring 마스터/프로그래밍하면서 주의할 점.md",
     "project/Spring 마스터/문서화 도구 REST Docs.md",
     "강의 키워드.md",
     "Pasted image 20231010113459.png",
     "Pasted image 20231010105112.png",
-    "resources/CS/데이터베이스/인덱스 + 조인.md",
     "Pasted image 20231010082858.png",
     "Pasted image 20231010082017.png",
     "img/Pasted image 20231009143451.png",
@@ -176,7 +177,6 @@
     "project/취업/삼성/삼성 적성검사.md",
     "img/Pasted image 20231009142902.png",
     "img/Pasted image 20231009142851.png",
-    "img/Pasted image 20231009142846.png",
     "area/여행/수연이와 일본 여행 계획!.md",
     "project/취업/삼성",
     "project/취업/자소서/에스원.md",
