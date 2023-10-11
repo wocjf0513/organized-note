@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/취업/자소서/신한은행.md",
+                "file": "project/취업/자소서/KT.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project/취업/자소서/신한은행.md",
+                "file": "project/취업/자소서/KT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "project/취업/자소서/신한은행.md",
+                "file": "project/취업/자소서/KT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/취업/자소서/신한은행.md"
+                "file": "project/취업/자소서/KT.md"
               }
             }
           },
@@ -158,10 +158,10 @@
   },
   "active": "32ca1a799f1c40ea",
   "lastOpenFiles": [
+    "project/취업/자소서/신한은행.md",
     "project/취업/자소서/롯데정보통신.md",
     "project/취업/자소서/가비아.md",
     "project/취업/자소서/KT.md",
-    "project/취업/자소서/신한은행.md",
     "project/취업/자소서/코오롱베니트.md",
     "project/취업/자소서/에스원.md",
     "project/취업/자소서/IBK 시스템.md",
