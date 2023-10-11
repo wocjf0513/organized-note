@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/취업/코테/MYSQL 집계 관련 필요 API 정리.md",
+                "file": "project/취업/코테/SQL관련 코테 시 필요 API 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project/취업/코테/MYSQL 집계 관련 필요 API 정리.md",
+                "file": "project/취업/코테/SQL관련 코테 시 필요 API 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "project/취업/코테/MYSQL 집계 관련 필요 API 정리.md",
+                "file": "project/취업/코테/SQL관련 코테 시 필요 API 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/취업/코테/MYSQL 집계 관련 필요 API 정리.md"
+                "file": "project/취업/코테/SQL관련 코테 시 필요 API 정리.md"
               }
             }
           },
@@ -158,7 +158,7 @@
   "active": "32ca1a799f1c40ea",
   "lastOpenFiles": [
     "project/취업/취업 관련 현황.md",
-    "project/취업/코테/MYSQL 집계 관련 필요 API 정리.md",
+    "project/취업/코테/SQL관련 코테 시 필요 API 정리.md",
     "project/취업/코테",
     "project/무제 파일.md",
     "project/취업/자소서/KT.md",
