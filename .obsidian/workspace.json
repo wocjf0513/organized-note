@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/취업/자소서/한화시스템 웹 개발.md",
+                "file": "project/취업/자소서/IBK 시스템.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "JSP",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project/취업/자소서/한화시스템 웹 개발.md",
+                "file": "project/취업/자소서/IBK 시스템.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "project/취업/자소서/한화시스템 웹 개발.md",
+                "file": "project/취업/자소서/IBK 시스템.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/취업/자소서/한화시스템 웹 개발.md"
+                "file": "project/취업/자소서/IBK 시스템.md"
               }
             }
           },
@@ -158,6 +157,7 @@
   },
   "active": "32ca1a799f1c40ea",
   "lastOpenFiles": [
+    "project/취업/자소서/한화시스템 웹 개발.md",
     "project/취업/자소서/한화시스템.md",
     "project/취업/자소서/한미사이언스.md",
     "arcive/카메라 사진 찍는법.md",
@@ -181,7 +181,6 @@
     "project/취업/자소서/NTS.md",
     "project/취업/자소서/아성 다이소.md",
     "project/취업/취업 관련 현황.md",
-    "project/취업/자소서/한화시스템 웹 개발.md",
     "project/취업/자소서/넥토리얼.md",
     "project/취업/자소서/순환출차.md",
     "Pasted image 20231010160710.png",
