@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/취업/자소서/가비아.md",
+                "file": "project/취업/취업 관련 현황.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project/취업/자소서/가비아.md",
+                "file": "project/취업/취업 관련 현황.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "project/취업/자소서/가비아.md",
+                "file": "project/취업/취업 관련 현황.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/취업/자소서/가비아.md"
+                "file": "project/취업/취업 관련 현황.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "32ca1a799f1c40ea",
   "lastOpenFiles": [
+    "project/취업/자소서/가비아.md",
     "project/취업/자소서/NTS.md",
     "project/취업/자소서/LG.md",
     "project/취업/자소서/LIG 넥스원.md",
@@ -172,7 +173,6 @@
     "project/취업/자소서/한화시스템 웹 개발.md",
     "project/취업/자소서/신한은행.md",
     "project/취업/자소서/코오롱베니트.md",
-    "project/취업/자소서/가비아.md",
     "project/취업/자소서/미라콤 아이앤씨.md",
     "project/취업/자소서/순환출차.md",
     "project/취업/자소서/아성 다이소.md",
