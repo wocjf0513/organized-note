@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/취업/취업 관련 현황.md",
+                "file": "project/취업/자소서/SK C&C.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project/취업/취업 관련 현황.md",
+                "file": "project/취업/자소서/SK C&C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "project/취업/취업 관련 현황.md",
+                "file": "project/취업/자소서/SK C&C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/취업/취업 관련 현황.md"
+                "file": "project/취업/자소서/SK C&C.md"
               }
             }
           },
@@ -157,8 +157,12 @@
   },
   "active": "32ca1a799f1c40ea",
   "lastOpenFiles": [
-    "project/취업/자소서/KT.md",
+    "project/취업/자소서/SK 쉴더스.md",
+    "project/취업/자소서/LIG 넥스원.md",
+    "project/취업/자소서/NTS.md",
     "project/취업/자소서/SK C&C.md",
+    "project/취업/취업 관련 현황.md",
+    "project/취업/자소서/KT.md",
     "project/취업/자소서/현대 IT & E.md",
     "project/취업/자소서/에스원.md",
     "project/취업/자소서/한화시스템 웹 개발.md",
@@ -170,12 +174,8 @@
     "project/취업/자소서/아성 다이소.md",
     "project/취업/자소서/KCC.md",
     "project/취업/자소서/LG.md",
-    "project/취업/자소서/LIG 넥스원.md",
-    "project/취업/자소서/NTS.md",
-    "project/취업/자소서/SK 쉴더스.md",
     "project/취업/자소서/다우기술.md",
     "project/취업/코테/SQL관련 코테 시 필요 API 정리.md",
-    "project/취업/취업 관련 현황.md",
     "project/취업/코테",
     "project/무제 파일.md",
     "project/취업/자소서/롯데정보통신.md",
