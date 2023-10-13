@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/Spring 마스터/프로그래밍하면서 주의할 점.md",
+                "file": "강의 키워드.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project/Spring 마스터/프로그래밍하면서 주의할 점.md",
+                "file": "강의 키워드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "project/Spring 마스터/프로그래밍하면서 주의할 점.md",
+                "file": "강의 키워드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/Spring 마스터/프로그래밍하면서 주의할 점.md"
+                "file": "강의 키워드.md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "32ca1a799f1c40ea",
   "lastOpenFiles": [
-    "강의 키워드.md",
     "project/Spring 마스터/프로그래밍하면서 주의할 점.md",
+    "강의 키워드.md",
     "project/말 잘하기/발음 연습.md",
     "project/그룹스터디/MVC.md",
     "img/Pasted image 20231010160424.png",
