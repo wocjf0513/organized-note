@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/그룹스터디/MVC.md",
+                "file": "강의 키워드.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project/그룹스터디/MVC.md",
+                "file": "강의 키워드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "project/그룹스터디/MVC.md",
+                "file": "강의 키워드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/그룹스터디/MVC.md"
+                "file": "강의 키워드.md"
               }
             }
           },
@@ -157,7 +157,10 @@
   },
   "active": "32ca1a799f1c40ea",
   "lastOpenFiles": [
+    "project/Spring 마스터/프로그래밍하면서 주의할 점.md",
     "강의 키워드.md",
+    "project/말 잘하기/발음 연습.md",
+    "project/그룹스터디/MVC.md",
     "img/Pasted image 20231010160424.png",
     "project/취업/코테/SQL관련 코테 시 필요 API 정리.md",
     "resources/CS/데이터베이스/Mysql 쿼리문 정리.md",
@@ -181,10 +184,7 @@
     "project/취업/자소서/미라콤 아이앤씨.md",
     "project/취업/자소서/순환출차.md",
     "project/취업/자소서/아성 다이소.md",
-    "project/취업/자소서/다우기술.md",
     "project/취업/코테",
-    "project/무제 파일.md",
-    "project/취업/자소서/롯데정보통신.md",
     "img/Pasted image 20231010160710.png",
     "img/Pasted image 20231010160525.png",
     "img/Pasted image 20231010160508.png",
