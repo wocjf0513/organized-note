@@ -11,11 +11,9 @@
             "id": "32ca1a799f1c40ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "강의 키워드.md",
-                "mode": "source",
-                "source": false
+                "file": "img/Pasted image 20231013123029.png"
               }
             }
           }
@@ -48,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "프로그래밍",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +63,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의 키워드.md",
+                "file": "img/Pasted image 20231013123029.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의 키워드.md",
+                "file": "img/Pasted image 20231013123029.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의 키워드.md"
+                "file": "img/Pasted image 20231013123029.png"
               }
             }
           },
@@ -156,15 +153,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "32ca1a799f1c40ea",
+  "active": "01f8eac3f827a123",
   "lastOpenFiles": [
-    "Pasted image 20231013124221.png",
-    "project/Spring 마스터/프로그래밍하면서 주의할 점.md",
-    "Pasted image 20231013123044.png",
-    "Pasted image 20231013123040.png",
-    "Pasted image 20231013123031.png",
-    "Pasted image 20231013123029.png",
     "강의 키워드.md",
+    "img/Pasted image 20231013124221.png",
+    "project/Spring 마스터/프로그래밍하면서 주의할 점.md",
+    "img/Pasted image 20231013123044.png",
+    "img/Pasted image 20231013123040.png",
+    "img/Pasted image 20231013123031.png",
+    "img/Pasted image 20231013123029.png",
     "project/말 잘하기/발음 연습.md",
     "project/그룹스터디/MVC.md",
     "img/Pasted image 20231010160424.png",
@@ -196,7 +193,6 @@
     "무제 폴더 1",
     "무제 폴더",
     "img/Pasted image 20231010154444.png",
-    "img/Pasted image 20231010154327.png",
     "project/우아한테크코스",
     "project/취업/삼성",
     "area/여행",
