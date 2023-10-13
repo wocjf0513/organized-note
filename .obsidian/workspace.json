@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/Spring 마스터/프로그래밍하면서 주의할 점.md",
+                "file": "강의 키워드.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project/Spring 마스터/프로그래밍하면서 주의할 점.md",
+                "file": "강의 키워드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "project/Spring 마스터/프로그래밍하면서 주의할 점.md",
+                "file": "강의 키워드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/Spring 마스터/프로그래밍하면서 주의할 점.md"
+                "file": "강의 키워드.md"
               }
             }
           },
@@ -158,12 +158,12 @@
   },
   "active": "32ca1a799f1c40ea",
   "lastOpenFiles": [
+    "project/Spring 마스터/프로그래밍하면서 주의할 점.md",
     "Pasted image 20231013123044.png",
     "Pasted image 20231013123040.png",
     "Pasted image 20231013123031.png",
     "Pasted image 20231013123029.png",
     "강의 키워드.md",
-    "project/Spring 마스터/프로그래밍하면서 주의할 점.md",
     "project/말 잘하기/발음 연습.md",
     "project/그룹스터디/MVC.md",
     "img/Pasted image 20231010160424.png",
@@ -196,7 +196,6 @@
     "무제 폴더",
     "img/Pasted image 20231010154444.png",
     "img/Pasted image 20231010154327.png",
-    "img/Pasted image 20231010154250.png",
     "project/우아한테크코스",
     "project/취업/삼성",
     "area/여행",
