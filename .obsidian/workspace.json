@@ -11,9 +11,11 @@
             "id": "32ca1a799f1c40ea",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "img/Pasted image 20231013123029.png"
+                "file": "project/Spring 마스터/프로그래밍하면서 주의할 점.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "img/Pasted image 20231013123029.png",
+                "file": "project/Spring 마스터/프로그래밍하면서 주의할 점.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "img/Pasted image 20231013123029.png",
+                "file": "project/Spring 마스터/프로그래밍하면서 주의할 점.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "img/Pasted image 20231013123029.png"
+                "file": "project/Spring 마스터/프로그래밍하면서 주의할 점.md"
               }
             }
           },
@@ -153,22 +155,24 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "01f8eac3f827a123",
+  "active": "32ca1a799f1c40ea",
   "lastOpenFiles": [
+    "area/Spring IoC , DI.md",
+    "area/빌드.md",
+    "area/여행/수연이와 일본 여행 계획!.md",
+    "img/Pasted image 20231013123029.png",
     "강의 키워드.md",
     "img/Pasted image 20231013124221.png",
     "project/Spring 마스터/프로그래밍하면서 주의할 점.md",
     "img/Pasted image 20231013123044.png",
     "img/Pasted image 20231013123040.png",
     "img/Pasted image 20231013123031.png",
-    "img/Pasted image 20231013123029.png",
     "project/말 잘하기/발음 연습.md",
     "project/그룹스터디/MVC.md",
     "img/Pasted image 20231010160424.png",
     "project/취업/코테/SQL관련 코테 시 필요 API 정리.md",
     "resources/CS/데이터베이스/Mysql 쿼리문 정리.md",
     "project/취업/취업 관련 현황.md",
-    "area/여행/수연이와 일본 여행 계획!.md",
     "project/취업/자소서/가비아.md",
     "project/취업/자소서/NTS.md",
     "project/취업/자소서/LG.md",
@@ -185,7 +189,6 @@
     "project/취업/자소서/신한은행.md",
     "project/취업/자소서/코오롱베니트.md",
     "project/취업/자소서/미라콤 아이앤씨.md",
-    "project/취업/자소서/순환출차.md",
     "project/취업/코테",
     "img/Pasted image 20231010160710.png",
     "img/Pasted image 20231010160525.png",
