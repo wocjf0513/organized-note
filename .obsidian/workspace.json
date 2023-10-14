@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d7484de8e16c2fb1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,7 +167,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "32ca1a799f1c40ea",
+  "active": "d7484de8e16c2fb1",
   "lastOpenFiles": [
     "project/취업/코테/SQL관련 코테 시 필요 API 정리.md",
     "project/Spring 마스터/프로그래밍하면서 주의할 점.md",
