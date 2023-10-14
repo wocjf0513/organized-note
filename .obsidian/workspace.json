@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources/CS/알고리즘/해시맵.md",
+                "file": "resources/CS/데이터베이스/Mysql 쿼리문 정리.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "d7484de8e16c2fb1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "putif",
+                "query": "sql",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/CS/알고리즘/해시맵.md",
+                "file": "resources/CS/데이터베이스/Mysql 쿼리문 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources/CS/알고리즘/해시맵.md",
+                "file": "resources/CS/데이터베이스/Mysql 쿼리문 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources/CS/알고리즘/해시맵.md"
+                "file": "resources/CS/데이터베이스/Mysql 쿼리문 정리.md"
               }
             }
           },
@@ -167,9 +156,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d7484de8e16c2fb1",
+  "active": "32ca1a799f1c40ea",
   "lastOpenFiles": [
+    "resources/CS/데이터베이스/인덱스 + 조인.md",
     "project/취업/코테/SQL관련 코테 시 필요 API 정리.md",
+    "resources/CS/알고리즘/해시맵.md",
     "project/Spring 마스터/프로그래밍하면서 주의할 점.md",
     "강의 키워드.md",
     "area/Spring IoC , DI.md",
@@ -199,8 +190,6 @@
     "project/취업/자소서/에스원.md",
     "project/취업/자소서/한화시스템 웹 개발.md",
     "project/취업/자소서/신한은행.md",
-    "project/취업/자소서/코오롱베니트.md",
-    "project/취업/자소서/미라콤 아이앤씨.md",
     "project/취업/코테",
     "img/Pasted image 20231010160710.png",
     "img/Pasted image 20231010160525.png",
