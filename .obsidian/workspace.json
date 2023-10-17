@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/취업/자소서/신한은행.md",
+                "file": "project/취업/소스/경험 리스트.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "유연한 ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project/취업/자소서/신한은행.md",
+                "file": "project/취업/소스/경험 리스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "project/취업/자소서/신한은행.md",
+                "file": "project/취업/소스/경험 리스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/취업/자소서/신한은행.md"
+                "file": "project/취업/소스/경험 리스트.md"
               }
             }
           },
@@ -158,8 +157,8 @@
   },
   "active": "32ca1a799f1c40ea",
   "lastOpenFiles": [
-    "project/취업/자소서/현대 IT & E.md",
     "project/취업/자소서/신한은행.md",
+    "project/취업/자소서/현대 IT & E.md",
     "project/취업/자소서/현대오토에버.md",
     "project/취업/자소서/가비아.md",
     "project/우아한테크코스/2024 신입생 모집.md",
