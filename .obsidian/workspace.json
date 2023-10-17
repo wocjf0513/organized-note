@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/취업/자소서/신세계 I&C.md",
+                "file": "project/취업/자소서/가비아.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "클라우드",
+                "query": "직무 관련",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project/취업/자소서/신세계 I&C.md",
+                "file": "project/취업/자소서/가비아.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "project/취업/자소서/신세계 I&C.md",
+                "file": "project/취업/자소서/가비아.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/취업/자소서/신세계 I&C.md"
+                "file": "project/취업/자소서/가비아.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   "active": "32ca1a799f1c40ea",
   "lastOpenFiles": [
     "project/취업/자소서/NDS.md",
+    "project/취업/자소서/신세계 I&C.md",
     "project/취업/자소서/SK 쉴더스.md",
     "project/취업/자소서/에스원.md",
     "project/성격검사/애니어그램 10문항.md",
@@ -190,7 +191,6 @@
     "img/Pasted image 20231013123040.png",
     "img/Pasted image 20231013123031.png",
     "project/말 잘하기/발음 연습.md",
-    "project/그룹스터디/MVC.md",
     "img/Pasted image 20231010160424.png",
     "project/취업/코테",
     "img/Pasted image 20231010160710.png",
