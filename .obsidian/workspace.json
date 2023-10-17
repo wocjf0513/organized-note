@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "지라",
+                "query": "입사 후 포부",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,7 +156,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "32ca1a799f1c40ea",
+  "active": "b404cc0958ca10d7",
   "lastOpenFiles": [
     "project/취업/자소서/NTS.md",
     "project/취업/자소서/SK 쉴더스.md",
