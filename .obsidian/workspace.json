@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/IntelliJ/단축키.md",
+                "file": "area/알고리즘/최단 경로 알고리즘.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project/IntelliJ/단축키.md",
+                "file": "area/알고리즘/최단 경로 알고리즘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "project/IntelliJ/단축키.md",
+                "file": "area/알고리즘/최단 경로 알고리즘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/IntelliJ/단축키.md"
+                "file": "area/알고리즘/최단 경로 알고리즘.md"
               }
             }
           },
@@ -158,6 +157,10 @@
   },
   "active": "32ca1a799f1c40ea",
   "lastOpenFiles": [
+    "area/알고리즘/최소 공통 조상 찾기.md",
+    "area/알고리즘/최단 경로 알고리즘.md",
+    "project/IntelliJ/단축키.md",
+    "area/알고리즘",
     "arcive/MSA 프로젝트/MSA.md",
     "체험단 일정.md",
     "project/취업/자소서/NDS.md",
@@ -183,9 +186,6 @@
     "project/우아한테크코스/2024 신입생 모집.md",
     "project/취업/취업 관련 현황.md",
     "resources/CS/데이터베이스/Mysql 쿼리문 정리.md",
-    "resources/CS/데이터베이스/인덱스 + 조인.md",
-    "project/취업/코테/SQL관련 코테 시 필요 API 정리.md",
-    "resources/CS/알고리즘/해시맵.md",
     "img/Pasted image 20231013123029.png",
     "img/Pasted image 20231013124221.png",
     "img/Pasted image 20231013123044.png",
@@ -203,7 +203,6 @@
     "project/취업/삼성",
     "area/여행",
     "project/Spring 마스터",
-    "arcive/MSA 프로젝트",
     "project/말 잘하기/말 잘하는 방법.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
