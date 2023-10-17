@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/클린코드/메모.md",
+                "file": "project/클린코드/르블랑의 법칙.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project/클린코드/메모.md",
+                "file": "project/클린코드/르블랑의 법칙.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "project/클린코드/메모.md",
+                "file": "project/클린코드/르블랑의 법칙.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/클린코드/메모.md"
+                "file": "project/클린코드/르블랑의 법칙.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "32ca1a799f1c40ea",
   "lastOpenFiles": [
-    "project/클린코드/휴리스틱.md",
     "project/클린코드/메모.md",
+    "project/클린코드/르블랑의 법칙.md",
+    "project/클린코드/휴리스틱.md",
     "project/취업/소스/경험 리스트.md",
     "project/클린코드",
     "project/취업/자소서/신한은행.md",
@@ -189,7 +190,6 @@
     "project/취업/자소서/LIG 넥스원.md",
     "project/취업/자소서/KT.md",
     "project/취업/자소서/KCC.md",
-    "project/취업/자소서/IBK 시스템.md",
     "project/취업/코테",
     "img/Pasted image 20231010160710.png",
     "img/Pasted image 20231010160525.png",
