@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/취업/소스/경험 리스트.md",
+                "file": "project/클린코드/휴리스틱.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project/취업/소스/경험 리스트.md",
+                "file": "project/클린코드/휴리스틱.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "project/취업/소스/경험 리스트.md",
+                "file": "project/클린코드/휴리스틱.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/취업/소스/경험 리스트.md"
+                "file": "project/클린코드/휴리스틱.md"
               }
             }
           },
@@ -157,6 +157,9 @@
   },
   "active": "32ca1a799f1c40ea",
   "lastOpenFiles": [
+    "project/취업/소스/경험 리스트.md",
+    "project/클린코드/휴리스틱.md",
+    "project/클린코드",
     "project/취업/자소서/신한은행.md",
     "project/취업/자소서/현대 IT & E.md",
     "project/취업/자소서/현대오토에버.md",
@@ -187,8 +190,6 @@
     "project/취업/자소서/KCC.md",
     "project/취업/자소서/IBK 시스템.md",
     "project/취업/자소서/SK 쉴더스.md",
-    "project/취업/자소서/SK C&C.md",
-    "project/취업/자소서/신세계 I&C.md",
     "project/취업/코테",
     "img/Pasted image 20231010160710.png",
     "img/Pasted image 20231010160525.png",
@@ -202,7 +203,6 @@
     "project/Spring 마스터",
     "arcive/MSA 프로젝트",
     "project/IntelliJ",
-    "project/그룹스터디",
     "project/말 잘하기/말 잘하는 방법.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
