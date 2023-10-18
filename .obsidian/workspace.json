@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/취업/면접/Join 과 Fetch Join의 차이.md",
+                "file": "project/취업/면접/트랜젝션 전파.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project/취업/면접/Join 과 Fetch Join의 차이.md",
+                "file": "project/취업/면접/트랜젝션 전파.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "project/취업/면접/Join 과 Fetch Join의 차이.md",
+                "file": "project/취업/면접/트랜젝션 전파.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/취업/면접/Join 과 Fetch Join의 차이.md"
+                "file": "project/취업/면접/트랜젝션 전파.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "32ca1a799f1c40ea",
   "lastOpenFiles": [
-    "project/취업/면접/데이터베이스.md",
     "project/취업/면접/Join 과 Fetch Join의 차이.md",
+    "project/취업/면접/트랜젝션 전파.md",
+    "project/취업/면접/데이터베이스.md",
     "project/취업/자소서/NDS.md",
     "project/취업/자소서/SK C&C.md",
     "project/취업/취업 관련 현황.md",
@@ -183,7 +184,6 @@
     "project/취업/자소서/신한은행.md",
     "project/취업/자소서/롯데정보통신.md",
     "project/취업/자소서/가비아.md",
-    "project/취업/자소서/신세계 I&C.md",
     "project/성격검사",
     "project/클린코드",
     "img/Pasted image 20231013123029.png",
