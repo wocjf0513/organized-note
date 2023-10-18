@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/취업/자소서/NDS.md",
+                "file": "project/취업/취업 관련 현황.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project/취업/자소서/NDS.md",
+                "file": "project/취업/취업 관련 현황.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "project/취업/자소서/NDS.md",
+                "file": "project/취업/취업 관련 현황.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/취업/자소서/NDS.md"
+                "file": "project/취업/취업 관련 현황.md"
               }
             }
           },
@@ -157,9 +157,9 @@
   },
   "active": "32ca1a799f1c40ea",
   "lastOpenFiles": [
+    "project/취업/자소서/NDS.md",
     "area/여행/수연이와 일본 여행 계획!.md",
     "project/취업/취업 관련 현황.md",
-    "project/취업/자소서/NDS.md",
     "project/취업/자소서/CJ 네트웍스.md",
     "project/취업/자소서/에스원.md",
     "project/취업/자소서/NTS.md",
