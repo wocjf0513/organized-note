@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/취업/서류 회사.md",
+                "file": "project/취업/채용박람회/성남시 청년 박람회.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project/취업/서류 회사.md",
+                "file": "project/취업/채용박람회/성남시 청년 박람회.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "project/취업/서류 회사.md",
+                "file": "project/취업/채용박람회/성남시 청년 박람회.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/취업/서류 회사.md"
+                "file": "project/취업/채용박람회/성남시 청년 박람회.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "32ca1a799f1c40ea",
   "lastOpenFiles": [
+    "project/취업/서류 회사.md",
     "project/취업/채용박람회/성남시 청년 박람회.md",
     "project/취업/소스/경험 리스트.md",
     "project/취업/채용박람회",
@@ -167,7 +168,6 @@
     "arcive/MSA 프로젝트/MSA.md",
     "arcive/카메라 사진 찍는법.md",
     "project/IntelliJ/단축키.md",
-    "project/취업/서류 회사.md",
     "project/취업/면접/Join 과 Fetch Join의 차이.md",
     "project/취업/자소서/NDS.md",
     "project/취업/자소서/SK C&C.md",
