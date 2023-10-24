@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/토이프로젝트2/Convention.md",
+                "file": "project/취업/서류 회사.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project/토이프로젝트2/Convention.md",
+                "file": "project/취업/서류 회사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "project/토이프로젝트2/Convention.md",
+                "file": "project/취업/서류 회사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/토이프로젝트2/Convention.md"
+                "file": "project/취업/서류 회사.md"
               }
             }
           },
@@ -155,10 +155,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "32ca1a799f1c40ea",
+  "active": "01f8eac3f827a123",
   "lastOpenFiles": [
-    "project/토이프로젝트2/오늘 할 일.md",
+    "project/취업/코테/SQL관련 코테 시 필요 API 정리.md",
+    "project/취업/채용박람회/성남시 청년 박람회.md",
     "project/토이프로젝트2/Convention.md",
+    "project/토이프로젝트2/오늘 할 일.md",
     "project/토이프로젝트2/프로젝트 요구사항.md",
     "project/IntelliJ/단축키.md",
     "project/토이프로젝트2/docker.md",
@@ -184,13 +186,11 @@
     "체험단 일정.md",
     "README.md",
     "resources/CS/데이터베이스/Mysql 쿼리문 정리.md",
-    "project/취업/채용박람회/성남시 청년 박람회.md",
     "project/취업/서류 회사.md",
     "project/취업/소스/경험 리스트.md",
     "project/취업/채용박람회",
     "arcive/MSA 프로젝트/MSA.md",
     "arcive/카메라 사진 찍는법.md",
-    "project/취업/자소서/SK C&C.md",
     "area/알고리즘",
     "project/성격검사",
     "project/클린코드",
