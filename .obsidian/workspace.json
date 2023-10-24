@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/토이프로젝트2/프로젝트 요구사항.md",
+                "file": "project/토이프로젝트2/Convention.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project/토이프로젝트2/프로젝트 요구사항.md",
+                "file": "project/토이프로젝트2/Convention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "project/토이프로젝트2/프로젝트 요구사항.md",
+                "file": "project/토이프로젝트2/Convention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/토이프로젝트2/프로젝트 요구사항.md"
+                "file": "project/토이프로젝트2/Convention.md"
               }
             }
           },
@@ -157,12 +157,13 @@
   },
   "active": "32ca1a799f1c40ea",
   "lastOpenFiles": [
+    "project/토이프로젝트2/오늘 할 일.md",
+    "project/토이프로젝트2/Convention.md",
+    "project/토이프로젝트2/프로젝트 요구사항.md",
     "project/IntelliJ/단축키.md",
     "project/토이프로젝트2/docker.md",
     "project/토이프로젝트2/어노테이션.md",
-    "project/토이프로젝트2/오늘 할 일.md",
     "Pasted image 20231024103617.png",
-    "project/토이프로젝트2/프로젝트 요구사항.md",
     "project/토이프로젝트2/JPA.md",
     "Pasted image 20231024093607.png",
     "project/토이프로젝트2/JPA",
@@ -190,7 +191,6 @@
     "arcive/MSA 프로젝트/MSA.md",
     "arcive/카메라 사진 찍는법.md",
     "project/취업/자소서/SK C&C.md",
-    "area/여행/수연이와 일본 여행 계획!.md",
     "area/알고리즘",
     "project/성격검사",
     "project/클린코드",
