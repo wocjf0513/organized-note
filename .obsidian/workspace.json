@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/토이프로젝트2/JPA.md",
+                "file": "project/토이프로젝트2/프로젝트 요구사항.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project/토이프로젝트2/JPA.md",
+                "file": "project/토이프로젝트2/프로젝트 요구사항.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "project/토이프로젝트2/JPA.md",
+                "file": "project/토이프로젝트2/프로젝트 요구사항.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/토이프로젝트2/JPA.md"
+                "file": "project/토이프로젝트2/프로젝트 요구사항.md"
               }
             }
           },
@@ -157,9 +157,9 @@
   },
   "active": "32ca1a799f1c40ea",
   "lastOpenFiles": [
+    "project/토이프로젝트2/JPA.md",
     "Pasted image 20231024093607.png",
     "project/토이프로젝트2/프로젝트 요구사항.md",
-    "project/토이프로젝트2/JPA.md",
     "project/토이프로젝트2/JPA",
     "project/토이프로젝트2/깃.md",
     "project/토이프로젝트2/어노테이션.md",
@@ -199,7 +199,6 @@
     "img/Pasted image 20231013123031.png",
     "img/Pasted image 20231010160424.png",
     "project/취업/코테",
-    "img/Pasted image 20231010160710.png",
     "무제 폴더 1",
     "무제 폴더",
     "project/우아한테크코스",
