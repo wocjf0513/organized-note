@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/토이프로젝트2/프로젝트 요구사항.md",
+                "file": "project/취업/취업 현황도.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project/토이프로젝트2/프로젝트 요구사항.md",
+                "file": "project/취업/취업 현황도.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "project/토이프로젝트2/프로젝트 요구사항.md",
+                "file": "project/취업/취업 현황도.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/토이프로젝트2/프로젝트 요구사항.md"
+                "file": "project/취업/취업 현황도.md"
               }
             }
           },
@@ -157,12 +157,12 @@
   },
   "active": "32ca1a799f1c40ea",
   "lastOpenFiles": [
-    "project/취업/서류 회사.md",
+    "project/토이프로젝트2/프로젝트 요구사항.md",
+    "project/취업/취업 현황도.md",
     "project/취업/코테/SQL관련 코테 시 필요 API 정리.md",
     "project/취업/채용박람회/성남시 청년 박람회.md",
     "project/토이프로젝트2/Convention.md",
     "project/토이프로젝트2/오늘 할 일.md",
-    "project/토이프로젝트2/프로젝트 요구사항.md",
     "project/IntelliJ/단축키.md",
     "project/토이프로젝트2/docker.md",
     "project/토이프로젝트2/어노테이션.md",
