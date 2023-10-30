@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/취업/면접/규석이 소스.md",
+                "file": "project/취업/면접/신한은행 예상 질문 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,8 +83,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,7 +173,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6da306f271f494b4",
+  "active": "32ca1a799f1c40ea",
   "lastOpenFiles": [
     "project/취업/면접/규석이 소스.md",
     "project/취업/면접/신한은행 예상 질문 정리.md",
