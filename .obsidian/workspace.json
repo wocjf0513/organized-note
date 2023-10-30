@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/취업/면접/신한은행 예상 질문 정리.md",
+                "file": "project/취업/면접/기술 면접 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project/취업/면접/신한은행 예상 질문 정리.md",
+                "file": "project/취업/면접/기술 면접 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "project/취업/면접/신한은행 예상 질문 정리.md",
+                "file": "project/취업/면접/기술 면접 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/취업/면접/신한은행 예상 질문 정리.md"
+                "file": "project/취업/면접/기술 면접 정리.md"
               }
             }
           },
@@ -157,14 +157,14 @@
   },
   "active": "32ca1a799f1c40ea",
   "lastOpenFiles": [
-    "project/취업/삼성/삼성 적성검사.md",
+    "project/취업/면접/데이터베이스.md",
     "project/취업/면접/규석이 소스.md",
     "project/취업/면접/신한은행 예상 질문 정리.md",
+    "project/취업/삼성/삼성 적성검사.md",
     "Pasted image 20231030163631.png",
     "project/취업/면접/트랜젝션 전파.md",
     "project/취업/면접/Join 과 Fetch Join의 차이.md",
     "project/취업/면접/기술 면접 정리.md",
-    "project/취업/면접/데이터베이스.md",
     "project/취업/자소서/신한은행.md",
     "project/취업/취업 현황도.md",
     "project/토이프로젝트2/프로젝트 요구사항.md",
