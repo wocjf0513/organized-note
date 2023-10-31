@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "69f8d53df0b76537",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "32ca1a799f1c40ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "project/취업/자소서/신한은행.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "cc803b3351f424b3",
         "type": "tabs",
         "children": [
@@ -83,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
