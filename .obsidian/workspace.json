@@ -11,14 +11,11 @@
             "id": "6da306f271f494b4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "취미/스피치 연습/말 잘하는 방법.canvas",
-                "viewState": {
-                  "x": -100,
-                  "y": -160,
-                  "zoom": 0
-                }
+                "file": "취미/스피치 연습/흥박사 스피치/발음관련.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "취미/스피치 연습/말 잘하는 방법.canvas",
+                "file": "취미/스피치 연습/흥박사 스피치/발음관련.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "취미/스피치 연습/말 잘하는 방법.canvas",
+                "file": "취미/스피치 연습/흥박사 스피치/발음관련.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "취미/스피치 연습/말 잘하는 방법.canvas"
+                "file": "취미/스피치 연습/흥박사 스피치/발음관련.md"
               }
             }
           },
@@ -158,10 +155,22 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "01f8eac3f827a123",
+  "active": "6da306f271f494b4",
   "lastOpenFiles": [
-    "project/성격검사/애니어그램 10문항.md",
+    "취준/코테/SQL관련 코테 시 필요 API 정리.md",
+    "취미/스피치 연습/흥박사 스피치/발음관련.md",
+    "취미/스피치 연습/흥박사 스피치",
+    "취준/삼성/삼성 적성검사.md",
+    "취준/적성검사.md",
+    "프로그래밍/Git/Git Commit 제대로 하기.md",
+    "project/목표.md",
+    "프로그래밍/프로젝트/토이프로젝트2/프로젝트 요구사항.md",
+    "프로그래밍/프로젝트/토이프로젝트2/오늘 할 일.md",
+    "프로그래밍/프로젝트/토이프로젝트2/어노테이션.md",
+    "프로그래밍/프로젝트/토이프로젝트2/깃.md",
+    "취미/성남시 청운위/면접 준비.md",
     "취미/스피치 연습/말 잘하는 방법.canvas",
+    "project/성격검사/애니어그램 10문항.md",
     "README.md",
     "취미/스피치 연습",
     "무제 폴더",
@@ -174,10 +183,10 @@
     "resources/Pasted image 20231024085618.png",
     "resources/Pasted image 20230929124808.png",
     "취미/여행/수연이와 일본 여행 계획!.md",
-    "프로그래밍/개념/빌드.md",
+    "프로그래밍/CS/빌드.md",
     "프로그래밍/Spring",
     "프로그래밍/개념",
-    "project/토이프로젝트2/docker.md",
+    "프로그래밍/프로젝트/토이프로젝트2/docker.md",
     "프로그래밍/CS",
     "프로그래밍/프로젝트",
     "프로그래밍",
@@ -189,21 +198,9 @@
     "취준/면접/데이터베이스.md",
     "취준/자소서/순환출차.md",
     "취준/면접/트랜젝션 전파.md",
-    "project/취업/면접/규석이 소스.md",
-    "취준/면접/기술 면접 정리.md",
-    "project/취업/면접/면접 준비 절차.md",
-    "취준/삼성/삼성 적성검사.md",
     "resources/Pasted image 20231030163631.png",
-    "취준/면접/Join 과 Fetch Join의 차이.md",
-    "project/토이프로젝트2/프로젝트 요구사항.md",
-    "취준/코테/SQL관련 코테 시 필요 API 정리.md",
-    "취준/채용박람회/성남시 청년 박람회.md",
-    "project/토이프로젝트2/Convention.md",
-    "project/토이프로젝트2/오늘 할 일.md",
-    "project/IntelliJ/단축키.md",
     "resources/Pasted image 20231024103617.png",
     "resources/Pasted image 20231024093607.png",
-    "project/토이프로젝트2/JPA",
     "resources/Pasted image 20231024090113.png",
     "resources/Pasted image 20231024085741.png",
     "resources/Pasted image 20231013123029.png",
