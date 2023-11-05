@@ -81,6 +81,35 @@ public AccessDecisionManager accessDecisionManager() {
     }
 ```
 
+```java
+@SpringBootApplication
+@EnableGlobalMethodSecurity(securedEnabled = true)
+public class SampleSecureApplication {
+}
+```
+
+```java
+@Service
+public class MyService {
+
+  @Secured("ROLE_USER")
+  public String secure() {
+    return "Hello Security";
+  }
+
+}
+```
+
+현재 인증된 사용자 정보를 가져올 때
+
+```java
+@RequestMapping("/foo")
+public String foo(@AuthenticationPrincipal User user) {
+  ... // do stuff with user
+}
+```
+
+Authentication. get Principal() 함수가 작용한다.
 
 
 ![[Pasted image 20231105183849.png]]
