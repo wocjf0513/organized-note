@@ -29,6 +29,10 @@ public interface AuthenticationProvider {
 
 
 
+![[Pasted image 20231105163921.png]]
+
+
+
 * authorization (what are you allowed to do?).
 
 ```
