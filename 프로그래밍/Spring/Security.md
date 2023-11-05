@@ -33,12 +33,22 @@ WebSecurityConfigurerAdapter 함수 상속 시 ,configure 함수를 반드시 �
 ![[Pasted image 20231105163921.png]]
 
 
+authentication 이후 과정
 
 * authorization (what are you allowed to do?).
 
-```
+	AccessDecisionManager - AccessDecisionVoter
+	
+	**# Access Control 결정을 내리는 인터페이스로, 구현체 3가지를 기본으로 제공한다.**
+	
+	- **AffirmativeBased** : 여러 Voter 중에 한명이라도 허용하면 허용, 기본전략
+	
+	- ConsensusBased : 다수결
+	
+	- UnanimousBased : 만장일치
 
-```
+
+
 
 Spring Security has an architecture that is designed to separate authentication from authorization
 
