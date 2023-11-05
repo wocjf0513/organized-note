@@ -8,7 +8,19 @@ public interface AuthenticationManager {
 }
 ```
 
-	authenticationManager 의 구현체는 providerManager
+	* authenticationManager 의 구현체는 providerManager
+	* authenticationProvider 객체들의 체인을 위임하고 있다.
+	* 
+
+```java 
+public interface AuthenticationProvider { 
+	
+	Authentication authenticate(Authentication authentication) throws AuthenticationException; 
+	
+	boolean supports(Class<?> authentication); 
+}
+```
+
 
 **1-1. authenticate 의 역할**
 > 1. 입력 값이 신뢰있는 사용자를 나타내면 Authentication 를 return
