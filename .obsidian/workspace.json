@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "취미/스피치 연습/흥박사 스피치/발음관련.md",
+                "file": "프로그래밍/Spring/Security.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "취미/스피치 연습/흥박사 스피치/발음관련.md",
+                "file": "프로그래밍/Spring/Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "취미/스피치 연습/흥박사 스피치/발음관련.md",
+                "file": "프로그래밍/Spring/Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "취미/스피치 연습/흥박사 스피치/발음관련.md"
+                "file": "프로그래밍/Spring/Security.md"
               }
             }
           },
@@ -155,12 +155,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "01f8eac3f827a123",
+  "active": "6da306f271f494b4",
   "lastOpenFiles": [
+    "취미/스피치 연습/흥박사 스피치/발음관련.md",
+    "프로그래밍/Spring/Security.md",
     "취미/AWS 어소시따기",
     "취미/AWS자격증 따기",
     "취준/코테/SQL관련 코테 시 필요 API 정리.md",
-    "취미/스피치 연습/흥박사 스피치/발음관련.md",
     "취미/스피치 연습/흥박사 스피치",
     "취준/삼성/삼성 적성검사.md",
     "취준/적성검사.md",
@@ -191,7 +192,6 @@
     "프로그래밍/프로젝트/토이프로젝트2/docker.md",
     "프로그래밍/CS",
     "프로그래밍/프로젝트",
-    "프로그래밍",
     "취준/취업 현황도.md",
     "취준/면접/신한은행 예상 질문 정리.md",
     "resources/Pasted image 20231013124221.png",
