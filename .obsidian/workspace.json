@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/Spring/Security.md",
+                "file": "영단어/프래그래밍하면서 모르는 단어.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/Spring/Security.md",
+                "file": "영단어/프래그래밍하면서 모르는 단어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/Spring/Security.md",
+                "file": "영단어/프래그래밍하면서 모르는 단어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/Spring/Security.md"
+                "file": "영단어/프래그래밍하면서 모르는 단어.md"
               }
             }
           },
@@ -157,8 +157,10 @@
   },
   "active": "6da306f271f494b4",
   "lastOpenFiles": [
-    "취미/스피치 연습/흥박사 스피치/발음관련.md",
     "프로그래밍/Spring/Security.md",
+    "영단어/프래그래밍하면서 모르는 단어.md",
+    "영단어",
+    "취미/스피치 연습/흥박사 스피치/발음관련.md",
     "취미/AWS 어소시따기",
     "취미/AWS자격증 따기",
     "취준/코테/SQL관련 코테 시 필요 API 정리.md",
@@ -176,7 +178,6 @@
     "project/성격검사/애니어그램 10문항.md",
     "README.md",
     "취미/스피치 연습",
-    "무제 폴더",
     "resources/모음표.png",
     "프로그래밍/Spring/MVC 어노테이션의 존재 이유.md",
     "프로그래밍/Spring/Spring IoC , DI.md",
@@ -197,7 +198,6 @@
     "resources/Pasted image 20231013124221.png",
     "취준/자소서/신한은행.md",
     "취준/면접/데이터베이스.md",
-    "취준/자소서/순환출차.md",
     "resources/Pasted image 20231030163631.png",
     "resources/Pasted image 20231024103617.png",
     "resources/Pasted image 20231024093607.png",

@@ -1,6 +1,6 @@
  powerful and highly customizable authentication and access-control framework.
 
-* authentication (who are you?) 
+1. authentication (who are you?) 
 ```java 
 public interface AuthenticationManager { 
 	
@@ -8,7 +8,20 @@ public interface AuthenticationManager {
 }
 ```
 
+	authenticationManager 의 구현체는 providerManager
+
+**1-1. authenticate 의 역할**
+> 1. 입력 값이 신뢰있는 사용자를 나타내면 Authentication 를 return
+> 2. 아니면, AuthenticationException (RunTime Exception)
+> 3. 결정을 못하겠으면, null return
+
+
+
 * authorization (what are you allowed to do?).
+
+```
+
+```
 
 Spring Security has an architecture that is designed to separate authentication from authorization
 
