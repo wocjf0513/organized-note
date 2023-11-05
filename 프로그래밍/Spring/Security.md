@@ -1,4 +1,8 @@
  powerful and highly customizable authentication and access-control framework.
+ 
+ Spring Security has an architecture that is designed to separate authentication from authorization
+
+
 
 1. authentication (who are you?) 
 ```java 
@@ -47,13 +51,35 @@ authentication 이후 과정
 	
 	- UnanimousBased : 만장일치
 
-```
-public AccessDecisionManager accessDecisionManager() { 
-		RoleHierarchyImpl roleHierarchy = new RoleHierarchyImpl(); roleHierarchy.setHierarchy("ROLE_ADMIN > ROLE_USER"); DefaultWebSecurityExpressionHandler handler = new DefaultWebSecurityExpressionHandler(); // handler 도 같은 걸 쓰고 있는데, roleHierarchy 설정을 추가해준 것 뿐임 handler.setRoleHierarchy(roleHierarchy); WebExpressionVoter webExpressionVoter = new WebExpressionVoter(); webExpressionVoter.setExpressionHandler(handler); List<AccessDecisionVoter<? extends Object>> voters = Arrays.asList(webExpressionVoter); return new AffirmativeBased(voters); } @Override protected void configure(HttpSecurity http) throws Exception { http.authorizeRequests() .mvcMatchers("/", "/info", "/account/**").permitAll() .mvcMatchers("/admin").hasRole("ADMIN") .mvcMatchers("/user").hasRole("USER") .anyRequest().authenticated() .accessDecisionManager(accessDecisionManager()); http.formLogin(); http.httpBasic(); }
-```
+```java
+public AccessDecisionManager accessDecisionManager() {
+        RoleHierarchyImpl roleHierarchy = new RoleHierarchyImpl();
+        roleHierarchy.setHierarchy("ROLE_ADMIN > ROLE_USER");
 
+        DefaultWebSecurityExpressionHandler handler = new DefaultWebSecurityExpressionHandler();
+        // handler 도 같은 걸 쓰고 있는데, roleHierarchy 설정을 추가해준 것 뿐임
+        handler.setRoleHierarchy(roleHierarchy);
 
-Spring Security has an architecture that is designed to separate authentication from authorization
+        WebExpressionVoter webExpressionVoter = new WebExpressionVoter();
+        webExpressionVoter.setExpressionHandler(handler);
+
+        List<AccessDecisionVoter<? extends Object>> voters = Arrays.asList(webExpressionVoter);
+        return new AffirmativeBased(voters);
+    }
+
+    @Override
+    protected void configure(HttpSecurity http) throws Exception {
+        http.authorizeRequests()
+                .mvcMatchers("/", "/info", "/account/**").permitAll()
+                .mvcMatchers("/admin").hasRole("ADMIN")
+                .mvcMatchers("/user").hasRole("USER")
+                .anyRequest().authenticated()
+                .accessDecisionManager(accessDecisionManager());
+
+            http.formLogin();
+            http.httpBasic();
+    }
+```
 
 
 
