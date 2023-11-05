@@ -21,7 +21,7 @@ public interface AuthenticationProvider {
 ```
 
 WebSecurityConfigurerAdapter 함수 상속 시 ,configure 함수를 반드시 작성해야 하는데, 
-함수 위에 1) @Override 2) @Autowired 에 따라 Global AuthenticationManagerBuilder 설정, 로컬적 설정이 나눠진다.
+함수 위에 1) @Override 2) @Autowired 에 따라 Global AuthenticationManagerBuilder를 사용하거나, 로컬 AuthenticationManagerBuilder를 사용하는 것으로 나눠진다.
 
 **1-1. authenticate 의 역할**
 > 1. 입력 값이 신뢰있는 사용자를 나타내면 Authentication 를 return
