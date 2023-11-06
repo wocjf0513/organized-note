@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "좋은 말.md",
+                "file": "취준/자소서/아성 다이소.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "장점",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "좋은 말.md",
+                "file": "취준/자소서/아성 다이소.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "좋은 말.md",
+                "file": "취준/자소서/아성 다이소.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "좋은 말.md"
+                "file": "취준/자소서/아성 다이소.md"
               }
             }
           },
@@ -180,8 +181,10 @@
   },
   "active": "7e99a1a53c82e9e8",
   "lastOpenFiles": [
-    "resources/Pasted image 20231105163921.png",
+    "취준/면접/신한은행 예상 질문 정리.md",
+    "취준/경험 리스트.md",
     "좋은 말.md",
+    "resources/Pasted image 20231105163921.png",
     "취준/포트폴리오 작성/작성 팁.md",
     "resources/Pasted image 20231106113050.png",
     "resources/Pasted image 20231106113039.png",
@@ -221,7 +224,6 @@
     "프로그래밍/CS/빌드.md",
     "프로그래밍/Spring",
     "프로그래밍/개념",
-    "프로그래밍/프로젝트/토이프로젝트2/docker.md",
     "프로그래밍/CS",
     "resources/Pasted image 20231013124221.png",
     "resources/Pasted image 20231030163631.png",
