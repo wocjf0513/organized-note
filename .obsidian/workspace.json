@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "취준/자소서/NTS.md",
+                "file": "프로그래밍/Spring/Security.md",
                 "mode": "preview",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "장점",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "취준/자소서/NTS.md",
+                "file": "프로그래밍/Spring/Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "취준/자소서/NTS.md",
+                "file": "프로그래밍/Spring/Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "취준/자소서/NTS.md"
+                "file": "프로그래밍/Spring/Security.md"
               }
             }
           },
@@ -181,6 +180,8 @@
   },
   "active": "7e99a1a53c82e9e8",
   "lastOpenFiles": [
+    "취준/자소서/NTS.md",
+    "프로그래밍/Spring/Security.md",
     "취준/자소서/NDS.md",
     "취준/자소서/아성 다이소.md",
     "취준/면접/신한은행 예상 질문 정리.md",
@@ -192,7 +193,6 @@
     "resources/Pasted image 20231106113039.png",
     "취준/취업 현황도.md",
     "취준/포트폴리오 작성",
-    "프로그래밍/Spring/Security.md",
     "resources/Pasted image 20231105183849.png",
     "영단어/모르는 단어.md",
     "영단어",
@@ -219,7 +219,6 @@
     "프로그래밍/Spring/Spring IoC , DI.md",
     "취미",
     "강의 키워드.md",
-    "체험단 일정.md",
     "resources/Pasted image 20231024085618.png",
     "resources/Pasted image 20230929124808.png",
     "프로그래밍/Spring",
