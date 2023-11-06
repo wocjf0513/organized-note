@@ -28,9 +28,21 @@
                 "file": "resources/Pasted image 20231105163921.png"
               }
             }
+          },
+          {
+            "id": "7e99a1a53c82e9e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "좋은 말.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/Pasted image 20231105163921.png",
+                "file": "좋은 말.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources/Pasted image 20231105163921.png",
+                "file": "좋은 말.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources/Pasted image 20231105163921.png"
+                "file": "좋은 말.md"
               }
             }
           },
@@ -166,8 +178,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "01f8eac3f827a123",
+  "active": "7e99a1a53c82e9e8",
   "lastOpenFiles": [
+    "resources/Pasted image 20231105163921.png",
+    "좋은 말.md",
     "취준/포트폴리오 작성/작성 팁.md",
     "resources/Pasted image 20231106113050.png",
     "resources/Pasted image 20231106113039.png",
@@ -176,7 +190,6 @@
     "프로그래밍/Spring/Security.md",
     "resources/Pasted image 20231105183849.png",
     "영단어/모르는 단어.md",
-    "resources/Pasted image 20231105163921.png",
     "영단어",
     "취미/스피치 연습/흥박사 스피치/발음관련.md",
     "취미/AWS 어소시따기",
@@ -210,7 +223,6 @@
     "프로그래밍/개념",
     "프로그래밍/프로젝트/토이프로젝트2/docker.md",
     "프로그래밍/CS",
-    "취준/면접/신한은행 예상 질문 정리.md",
     "resources/Pasted image 20231013124221.png",
     "resources/Pasted image 20231030163631.png",
     "resources/Pasted image 20231024103617.png",
