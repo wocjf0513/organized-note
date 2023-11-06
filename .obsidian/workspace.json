@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/Spring/Security.md",
+                "file": "취준/취업 현황도.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/Spring/Security.md",
+                "file": "취준/취업 현황도.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/Spring/Security.md",
+                "file": "취준/취업 현황도.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/Spring/Security.md"
+                "file": "취준/취업 현황도.md"
               }
             }
           },
@@ -170,9 +170,9 @@
   },
   "active": "120bc033cbc02129",
   "lastOpenFiles": [
+    "프로그래밍/Spring/Security.md",
     "Pasted image 20231105183849.png",
     "영단어/모르는 단어.md",
-    "프로그래밍/Spring/Security.md",
     "Pasted image 20231105163921.png",
     "영단어",
     "취미/스피치 연습/흥박사 스피치/발음관련.md",
@@ -216,7 +216,6 @@
     "resources/Pasted image 20231024103617.png",
     "resources/Pasted image 20231024093607.png",
     "resources/Pasted image 20231024090113.png",
-    "resources/Pasted image 20231024085741.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
   ]
