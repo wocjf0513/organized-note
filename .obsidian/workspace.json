@@ -35,8 +35,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "취준/자소서/아성 다이소.md",
-                "mode": "source",
+                "file": "취준/자소서/NTS.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "취준/자소서/아성 다이소.md",
+                "file": "취준/자소서/NTS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "취준/자소서/아성 다이소.md",
+                "file": "취준/자소서/NTS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "취준/자소서/아성 다이소.md"
+                "file": "취준/자소서/NTS.md"
               }
             }
           },
@@ -181,6 +181,8 @@
   },
   "active": "7e99a1a53c82e9e8",
   "lastOpenFiles": [
+    "취준/자소서/NDS.md",
+    "취준/자소서/아성 다이소.md",
     "취준/면접/신한은행 예상 질문 정리.md",
     "취준/경험 리스트.md",
     "좋은 말.md",
@@ -220,8 +222,6 @@
     "체험단 일정.md",
     "resources/Pasted image 20231024085618.png",
     "resources/Pasted image 20230929124808.png",
-    "취미/여행/수연이와 일본 여행 계획!.md",
-    "프로그래밍/CS/빌드.md",
     "프로그래밍/Spring",
     "프로그래밍/개념",
     "프로그래밍/CS",
