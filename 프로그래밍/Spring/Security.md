@@ -4,7 +4,7 @@
 
 
 
-1. authentication (who are you?) 
+1. **authentication (who are you?)** 
 ```java 
 public interface AuthenticationManager { 
 	
@@ -39,7 +39,7 @@ WebSecurityConfigurerAdapter 함수 상속 시 ,configure 함수를 반드시 �
 
 authentication 이후 과정
 
-* authorization (what are you allowed to do?).
+* **authorization (what are you allowed to do?).**
 
 	AccessDecisionManager - AccessDecisionVoter
 	
@@ -114,6 +114,49 @@ Authentication. get Principal() 함수가 작용한다.
 
 ![[Pasted image 20231105183849.png]]
 필터는 다음과 같은 체인 구조를 가지며, 순서에 맞게 처리된다.
+
+
+SpringSecurity는 thread- bounded 되기 때문에 
+
+```java
+
+@Configuration
+@EnableAsync
+public class AsyncConfig {
+
+    @Bean
+    public Executor customExecutor() {
+        ThreadPoolTaskExecutor executor = new ThreadPoolTaskExecutor();
+        executor.setCorePoolSize(5);
+        executor.setMaxPoolSize(5);
+        executor.setThreadNamePrefix("5bepoz");
+        executor.initialize();
+        return executor;
+    }
+
+    @Bean
+    public Executor customExecutor2() {
+        ThreadPoolTaskExecutor executor = new ThreadPoolTaskExecutor();
+        executor.setCorePoolSize(10);
+        executor.setMaxPoolSize(10);
+        executor.setThreadNamePrefix("10bepoz");
+        executor.initialize();
+        return executor;
+    }
+}
+
+@Service
+@Slf4j
+public class AsyncService {
+
+    @Async("customExecutor")
+    public void call() {
+        log.info("async Test " + Thread.currentThread());
+    }
+}
+
+
+```
 
 
 
