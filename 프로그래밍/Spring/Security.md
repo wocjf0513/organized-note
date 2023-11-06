@@ -162,4 +162,18 @@ public class AsyncService {
 
 ## 출처
 1. [Spring Security공식문서](https://spring.io/projects/spring-security)
-2. 
+
+jwt + spring security 
+1. login과 회원가입 페이지를 security를 이용해서 모두가 들어갈 수 있게 해줌.
+2. 사용자가 login페이지에 아이디, 비번을 넣어서 로그인하거나
+3. 회원가입하면 저희가 controller랑 service를 이용해서 jwt token을 발급해줄거에요
+5. 그런다음에 사용자 login, 회원가입 페이지 이외에 페이지를 들어가고 싶으면
+6. 발급한 jwt token을 브라우저의 쿠키에 담아서 페이지 요청을 하게 되고
+7. 이떄, security에서 저희가 작성한 custom filter가 돌면서 맞는 token인지 확인하고 security context holder에 저장한다음, 인증 절차를 끝내요.
+
+
+
+
+
+
+
