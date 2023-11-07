@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "취준/자소서/플래티어.md",
+                "file": "취준/자소서/롯데정보통신.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "현재는",
+                "query": "롯",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "취준/자소서/플래티어.md",
+                "file": "취준/자소서/롯데정보통신.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "취준/자소서/플래티어.md",
+                "file": "취준/자소서/롯데정보통신.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "취준/자소서/플래티어.md"
+                "file": "취준/자소서/롯데정보통신.md"
               }
             }
           },
@@ -181,6 +181,7 @@
   },
   "active": "7e99a1a53c82e9e8",
   "lastOpenFiles": [
+    "취준/자소서/플래티어.md",
     "취준/자소서/가비아.md",
     "취준/자소서/SK C&C.md",
     "취준/자소서/SK 쉴더스.md",
@@ -197,7 +198,6 @@
     "취준/자소서/신세계 I&C.md",
     "취준/자소서/미라콤 아이앤씨.md",
     "취준/자소서/다우기술.md",
-    "취준/자소서/플래티어.md",
     "취준/자소서/코오롱베니트.md",
     "취준/취업 현황도.md",
     "취준/자소서/NTS.md",
