@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "성장과정",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,7 +168,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6da306f271f494b4",
+  "active": "b404cc0958ca10d7",
   "lastOpenFiles": [
     "취준/경험 리스트.md",
     "취준/취업 현황도.md",
