@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "취준/자소서/NTS.md",
+                "file": "취준/자소서/가비아.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "장점",
+                "query": "일어나지 않",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "취준/자소서/NTS.md",
+                "file": "취준/자소서/가비아.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "취준/자소서/NTS.md",
+                "file": "취준/자소서/가비아.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "취준/자소서/NTS.md"
+                "file": "취준/자소서/가비아.md"
               }
             }
           },
@@ -181,9 +181,9 @@
   },
   "active": "7e99a1a53c82e9e8",
   "lastOpenFiles": [
+    "취준/자소서/NTS.md",
     "취준/자소서/SK 쉴더스.md",
     "취준/자소서/NDS.md",
-    "취준/자소서/NTS.md",
     "취준/자소서/아성 다이소.md",
     "취준/자소서/다우기술.md",
     "취준/면접/신한은행 예상 질문 정리.md",
