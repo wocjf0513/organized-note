@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "롯",
+                "query": "지",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,7 +179,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "7e99a1a53c82e9e8",
+  "active": "b404cc0958ca10d7",
   "lastOpenFiles": [
     "취준/자소서/플래티어.md",
     "취준/자소서/가비아.md",
