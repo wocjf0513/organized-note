@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "취준/경험 리스트.md",
+                "file": "취준/자소서/미라콤 아이앤씨.md",
                 "mode": "preview",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "성장과정",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "취준/경험 리스트.md",
+                "file": "취준/자소서/미라콤 아이앤씨.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "취준/경험 리스트.md",
+                "file": "취준/자소서/미라콤 아이앤씨.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "취준/경험 리스트.md"
+                "file": "취준/자소서/미라콤 아이앤씨.md"
               }
             }
           },
@@ -169,6 +170,7 @@
   },
   "active": "6da306f271f494b4",
   "lastOpenFiles": [
+    "취준/경험 리스트.md",
     "취준/취업 현황도.md",
     "영단어/모르는 단어.md",
     "resources/Pasted image 20231105163921.png",
@@ -194,7 +196,6 @@
     "취준/자소서/NTS.md",
     "취준/자소서/NDS.md",
     "프로그래밍/Spring/Security.md",
-    "취준/경험 리스트.md",
     "좋은 말.md",
     "resources/Pasted image 20231106113050.png",
     "resources/Pasted image 20231106113039.png",
