@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "취준/자소서/롯데정보통신.md",
+                "file": "취준/자소서/SK C&C.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "롯데",
+                "query": "역량",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "취준/자소서/롯데정보통신.md",
+                "file": "취준/자소서/SK C&C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "취준/자소서/롯데정보통신.md",
+                "file": "취준/자소서/SK C&C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "취준/자소서/롯데정보통신.md"
+                "file": "취준/자소서/SK C&C.md"
               }
             }
           },
@@ -181,15 +181,26 @@
   },
   "active": "7e99a1a53c82e9e8",
   "lastOpenFiles": [
-    "취준/취업 현황도.md",
-    "취준/자소서/플래티어.md",
-    "취준/자소서/가비아.md",
-    "취준/면접/신한은행 예상 질문 정리.md",
-    "취준/자소서/NTS.md",
     "취준/자소서/SK 쉴더스.md",
-    "취준/자소서/NDS.md",
+    "취준/자소서/LIG 넥스원.md",
+    "취준/자소서/IBK 시스템.md",
+    "취준/자소서/현대오토에버.md",
+    "취준/자소서/한화시스템.md",
+    "취준/자소서/한화시스템 웹 개발.md",
+    "취준/자소서/한미사이언스.md",
     "취준/자소서/아성 다이소.md",
+    "취준/면접/신한은행 예상 질문 정리.md",
+    "취준/자소서/신한은행.md",
+    "취준/자소서/롯데정보통신.md",
+    "취준/자소서/신세계 I&C.md",
+    "취준/자소서/미라콤 아이앤씨.md",
     "취준/자소서/다우기술.md",
+    "취준/자소서/가비아.md",
+    "취준/자소서/플래티어.md",
+    "취준/자소서/코오롱베니트.md",
+    "취준/취업 현황도.md",
+    "취준/자소서/NTS.md",
+    "취준/자소서/NDS.md",
     "프로그래밍/Spring/Security.md",
     "취준/경험 리스트.md",
     "좋은 말.md",
@@ -204,19 +215,8 @@
     "취미/스피치 연습/흥박사 스피치/발음관련.md",
     "취미/AWS 어소시따기",
     "취미/AWS자격증 따기",
-    "취준/코테/SQL관련 코테 시 필요 API 정리.md",
     "취미/스피치 연습/흥박사 스피치",
-    "취준/삼성/삼성 적성검사.md",
-    "취준/적성검사.md",
-    "프로그래밍/Git/Git Commit 제대로 하기.md",
-    "project/목표.md",
-    "프로그래밍/프로젝트/토이프로젝트2/프로젝트 요구사항.md",
-    "프로그래밍/프로젝트/토이프로젝트2/오늘 할 일.md",
-    "프로그래밍/프로젝트/토이프로젝트2/어노테이션.md",
-    "프로그래밍/프로젝트/토이프로젝트2/깃.md",
-    "취미/성남시 청운위/면접 준비.md",
     "취미/스피치 연습/말 잘하는 방법.canvas",
-    "project/성격검사/애니어그램 10문항.md",
     "취미/스피치 연습",
     "resources/모음표.png",
     "취미",
