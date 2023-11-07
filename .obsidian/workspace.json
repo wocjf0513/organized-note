@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "취준/자소서/SK C&C.md",
+                "file": "취준/자소서/가비아.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "역량",
+                "query": "업무에",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "취준/자소서/SK C&C.md",
+                "file": "취준/자소서/가비아.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "취준/자소서/SK C&C.md",
+                "file": "취준/자소서/가비아.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "취준/자소서/SK C&C.md"
+                "file": "취준/자소서/가비아.md"
               }
             }
           },
@@ -181,6 +181,7 @@
   },
   "active": "7e99a1a53c82e9e8",
   "lastOpenFiles": [
+    "취준/자소서/SK C&C.md",
     "취준/자소서/SK 쉴더스.md",
     "취준/자소서/LIG 넥스원.md",
     "취준/자소서/IBK 시스템.md",
@@ -212,7 +213,6 @@
     "resources/Pasted image 20231105183849.png",
     "영단어/모르는 단어.md",
     "영단어",
-    "취미/스피치 연습/흥박사 스피치/발음관련.md",
     "취미/AWS 어소시따기",
     "취미/AWS자격증 따기",
     "취미/스피치 연습/흥박사 스피치",
