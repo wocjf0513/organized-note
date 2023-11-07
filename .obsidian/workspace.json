@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "취준/자소서/가비아.md",
+                "file": "취준/자소서/플래티어 자소서.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "일어나지 않",
+                "query": "그룹 스터디",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "취준/자소서/가비아.md",
+                "file": "취준/자소서/플래티어 자소서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "취준/자소서/가비아.md",
+                "file": "취준/자소서/플래티어 자소서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "취준/자소서/가비아.md"
+                "file": "취준/자소서/플래티어 자소서.md"
               }
             }
           },
@@ -181,12 +180,14 @@
   },
   "active": "7e99a1a53c82e9e8",
   "lastOpenFiles": [
+    "취준/자소서/가비아.md",
+    "취준/자소서/플래티어 자소서.md",
+    "취준/면접/신한은행 예상 질문 정리.md",
     "취준/자소서/NTS.md",
     "취준/자소서/SK 쉴더스.md",
     "취준/자소서/NDS.md",
     "취준/자소서/아성 다이소.md",
     "취준/자소서/다우기술.md",
-    "취준/면접/신한은행 예상 질문 정리.md",
     "프로그래밍/Spring/Security.md",
     "취준/경험 리스트.md",
     "좋은 말.md",
@@ -215,10 +216,8 @@
     "취미/성남시 청운위/면접 준비.md",
     "취미/스피치 연습/말 잘하는 방법.canvas",
     "project/성격검사/애니어그램 10문항.md",
-    "README.md",
     "취미/스피치 연습",
     "resources/모음표.png",
-    "프로그래밍/Spring/MVC 어노테이션의 존재 이유.md",
     "취미",
     "resources/Pasted image 20231024085618.png",
     "resources/Pasted image 20230929124808.png",
