@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영단어/모르는 단어.md",
+                "file": "취준/취업 현황도.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "120bc033cbc02129",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "resources/Pasted image 20231105163921.png"
               }
             }
           },
@@ -41,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "취준/자소서/롯데정보통신.md",
+                "file": "취준/취업 현황도.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "취준/자소서/롯데정보통신.md",
+                "file": "취준/취업 현황도.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "취준/자소서/롯데정보통신.md"
+                "file": "취준/취업 현황도.md"
               }
             }
           },
@@ -178,8 +167,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "7e99a1a53c82e9e8",
+  "active": "6da306f271f494b4",
   "lastOpenFiles": [
+    "영단어/모르는 단어.md",
+    "resources/Pasted image 20231105163921.png",
+    "취준/자소서/롯데정보통신.md",
     "취준/자소서/플래티어.md",
     "취준/자소서/신세계 I&C.md",
     "취준/자소서/신한은행.md",
@@ -187,7 +179,6 @@
     "취준/자소서/미라콤 아이앤씨.md",
     "취준/자소서/가비아.md",
     "취준/자소서/다우기술.md",
-    "취준/자소서/롯데정보통신.md",
     "취준/자소서/SK C&C.md",
     "취준/자소서/SK 쉴더스.md",
     "취준/자소서/LIG 넥스원.md",
@@ -205,8 +196,6 @@
     "프로그래밍/Spring/Security.md",
     "취준/경험 리스트.md",
     "좋은 말.md",
-    "resources/Pasted image 20231105163921.png",
-    "취준/포트폴리오 작성/작성 팁.md",
     "resources/Pasted image 20231106113050.png",
     "resources/Pasted image 20231106113039.png",
     "취준/포트폴리오 작성",
