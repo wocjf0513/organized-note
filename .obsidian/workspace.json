@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "몰두",
+                "query": "전망성",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,11 +155,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6da306f271f494b4",
+  "active": "01f8eac3f827a123",
   "lastOpenFiles": [
-    "취준/자소서/SK C&C.md",
-    "취준/자소서/NDS.md",
+    "취준/자소서/에스원.md",
+    "취준/자소서/플래티어.md",
     "취준/자소서/웅진.md",
+    "취준/자소서/아성 다이소.md",
+    "취준/자소서/NDS.md",
+    "취준/자소서/미라콤 아이앤씨.md",
+    "취준/자소서/SK C&C.md",
     "취준/자소서/현대오토에버.md",
     "취준/자소서/현대 IT & E.md",
     "취준/자소서/LIG 넥스원.md",
@@ -169,15 +172,11 @@
     "취준/자소서/한화시스템 웹 개발.md",
     "취준/자소서/코오롱베니트.md",
     "취준/면접/신한은행 예상 질문 정리.md",
-    "취준/자소서/에스원.md",
-    "취준/자소서/미라콤 아이앤씨.md",
     "취준/경험 리스트.md",
     "프로그래밍/Spring/문서화 도구 REST Docs.md",
     "취준/자소서/가비아.md",
     "취준/자소서/신한은행.md",
     "취준/취업 현황도.md",
-    "취준/자소서/플래티어.md",
-    "취준/자소서/아성 다이소.md",
     "취준/자소서/다우기술.md",
     "취준/자소서/롯데정보통신.md",
     "취준/자소서/IBK 시스템.md",
