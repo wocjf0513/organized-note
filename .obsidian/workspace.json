@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "취준/자소서/웅진.md",
+                "file": "취준/취업 현황도.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "취준/자소서/웅진.md",
+                "file": "취준/취업 현황도.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "취준/자소서/웅진.md",
+                "file": "취준/취업 현황도.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "취준/자소서/웅진.md"
+                "file": "취준/취업 현황도.md"
               }
             }
           },
@@ -155,11 +155,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "01f8eac3f827a123",
+  "active": "6da306f271f494b4",
   "lastOpenFiles": [
+    "취준/자소서/웅진.md",
     "취준/자소서/에스원.md",
     "취준/자소서/플래티어.md",
-    "취준/자소서/웅진.md",
     "취준/자소서/아성 다이소.md",
     "취준/자소서/NDS.md",
     "취준/자소서/미라콤 아이앤씨.md",
