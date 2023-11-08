@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "취준/자소서/IBK 시스템.md",
-                "mode": "preview",
+                "file": "취준/취업 현황도.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -77,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "취준/자소서/IBK 시스템.md",
+                "file": "취준/취업 현황도.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "취준/자소서/IBK 시스템.md",
+                "file": "취준/취업 현황도.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "취준/자소서/IBK 시스템.md"
+                "file": "취준/취업 현황도.md"
               }
             }
           },
@@ -170,9 +169,9 @@
   },
   "active": "6da306f271f494b4",
   "lastOpenFiles": [
+    "취준/자소서/IBK 시스템.md",
     "취준/자소서/LIG 넥스원.md",
     "취준/자소서/SK C&C.md",
-    "취준/자소서/IBK 시스템.md",
     "취준/자소서/CJ 네트웍스.md",
     "취준/자소서/현대 IT & E.md",
     "취준/자소서/한화시스템 웹 개발.md",
