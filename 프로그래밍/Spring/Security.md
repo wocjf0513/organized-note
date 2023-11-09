@@ -173,7 +173,12 @@ jwt + spring security
 
 
 
+### JWT
 
+![[Pasted image 20231109211723.png]]
+
+
+![[Pasted image 20231109211731.png]]
 
 
 
