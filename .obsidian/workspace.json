@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "07ca667d902801cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프로그래밍/프로젝트/토이프로젝트3/ERD 작성 툴.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f264d767023a7a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프로그래밍/프로젝트/토이프로젝트3/1. Query Parameter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/프로젝트/토이프로젝트3/더티체킹.md",
+                "file": "프로그래밍/프로젝트/토이프로젝트3/ERD 작성 툴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/프로젝트/토이프로젝트3/더티체킹.md",
+                "file": "프로그래밍/프로젝트/토이프로젝트3/ERD 작성 툴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/프로젝트/토이프로젝트3/더티체킹.md"
+                "file": "프로그래밍/프로젝트/토이프로젝트3/ERD 작성 툴.md"
               }
             }
           },
@@ -155,10 +180,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6da306f271f494b4",
+  "active": "07ca667d902801cf",
   "lastOpenFiles": [
-    "프로그래밍/프로젝트/토이프로젝트3/깃 커밋 메세지 템플릿 설정.md",
     "프로그래밍/프로젝트/토이프로젝트3/더티체킹.md",
+    "프로그래밍/프로젝트/토이프로젝트3/깃 커밋 메세지 템플릿 설정.md",
+    "프로그래밍/프로젝트/토이프로젝트3/USER를 DB NAME으로 안 쓰는 이유.md",
+    "프로그래밍/프로젝트/토이프로젝트3/ERD 작성 툴.md",
+    "프로그래밍/프로젝트/토이프로젝트3/1. Query Parameter.md",
     "취준/자소서/LG CNS.md",
     "프로그래밍/프로젝트/토이프로젝트3",
     "프로그래밍/프로젝트/무제 파일.md",
@@ -183,9 +211,6 @@
     "취준/자소서/한화시스템 웹 개발.md",
     "취준/자소서/코오롱베니트.md",
     "취준/경험 리스트.md",
-    "프로그래밍/Spring/문서화 도구 REST Docs.md",
-    "취준/자소서/가비아.md",
-    "취준/자소서/신한은행.md",
     "resources/Pasted image 20231105163921.png",
     "resources/Pasted image 20231106113050.png",
     "resources/Pasted image 20231106113039.png",
