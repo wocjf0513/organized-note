@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "취준/자소서/LG CNS.md",
+                "file": "프로그래밍/프로젝트/토이프로젝트3/더티체킹.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "취준/자소서/LG CNS.md",
+                "file": "프로그래밍/프로젝트/토이프로젝트3/더티체킹.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "취준/자소서/LG CNS.md",
+                "file": "프로그래밍/프로젝트/토이프로젝트3/더티체킹.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "취준/자소서/LG CNS.md"
+                "file": "프로그래밍/프로젝트/토이프로젝트3/더티체킹.md"
               }
             }
           },
@@ -157,8 +157,12 @@
   },
   "active": "6da306f271f494b4",
   "lastOpenFiles": [
-    "프로그래밍/Spring/Security.md",
+    "프로그래밍/프로젝트/토이프로젝트3/깃 커밋 메세지 템플릿 설정.md",
+    "프로그래밍/프로젝트/토이프로젝트3/더티체킹.md",
     "취준/자소서/LG CNS.md",
+    "프로그래밍/프로젝트/토이프로젝트3",
+    "프로그래밍/프로젝트/무제 파일.md",
+    "프로그래밍/Spring/Security.md",
     "resources/Pasted image 20231109211731.png",
     "resources/Pasted image 20231109211723.png",
     "취준/면접/기술 면접 정리.md",
@@ -182,9 +186,6 @@
     "프로그래밍/Spring/문서화 도구 REST Docs.md",
     "취준/자소서/가비아.md",
     "취준/자소서/신한은행.md",
-    "취준/자소서/다우기술.md",
-    "취준/자소서/롯데정보통신.md",
-    "취준/자소서/IBK 시스템.md",
     "resources/Pasted image 20231105163921.png",
     "resources/Pasted image 20231106113050.png",
     "resources/Pasted image 20231106113039.png",
@@ -202,7 +203,6 @@
     "resources/Pasted image 20230929124808.png",
     "프로그래밍/Spring",
     "프로그래밍/개념",
-    "프로그래밍/CS",
     "resources/Pasted image 20231013124221.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
