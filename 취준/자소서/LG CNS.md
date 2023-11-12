@@ -42,5 +42,3 @@ LG CNS에 입사한다면, 어떤 조직이나 분야에서 근무하고 싶나�
 [캐치 분석]https://www.catch.co.kr/Comp/AnalysisCompView?ID=1830
 
 
-
-]
