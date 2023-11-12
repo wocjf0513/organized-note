@@ -33,7 +33,12 @@ LG CNS에 입사한다면, 어떤 조직이나 분야에서 근무하고 싶나�
 
 ## 참고 URL
 [직무 분석]https://www.youtube.com/watch?v=aUcUly3QPtg
+### 직무 분석
+
 [기업 분석]https://www.youtube.com/watch?v=jcfHYLfg09g
+
+### 기업 분석
+
 [캐치 분석]https://www.catch.co.kr/Comp/AnalysisCompView?ID=1830
 
 
