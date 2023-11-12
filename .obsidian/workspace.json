@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/프로젝트/토이프로젝트3/@NotNull vs Column(nullable=false).md",
+                "file": "프로그래밍/프로젝트/토이프로젝트2/깃.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "전망성",
+                "query": "git",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/프로젝트/토이프로젝트3/@NotNull vs Column(nullable=false).md",
+                "file": "프로그래밍/프로젝트/토이프로젝트2/깃.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/프로젝트/토이프로젝트3/@NotNull vs Column(nullable=false).md",
+                "file": "프로그래밍/프로젝트/토이프로젝트2/깃.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/프로젝트/토이프로젝트3/@NotNull vs Column(nullable=false).md"
+                "file": "프로그래밍/프로젝트/토이프로젝트2/깃.md"
               }
             }
           },
@@ -182,8 +183,8 @@
   },
   "active": "07ca667d902801cf",
   "lastOpenFiles": [
-    "프로그래밍/프로젝트/토이프로젝트3/GIT HUB 이슈 템플릿.md",
     "프로그래밍/프로젝트/토이프로젝트3/@NotNull vs Column(nullable=false).md",
+    "프로그래밍/프로젝트/토이프로젝트3/GIT HUB 이슈 템플릿.md",
     "프로그래밍/프로젝트/토이프로젝트3/더티체킹.md",
     "프로그래밍/프로젝트/토이프로젝트3/무제 폴더",
     "프로그래밍/프로젝트/토이프로젝트3/ERD 작성 툴.md",
