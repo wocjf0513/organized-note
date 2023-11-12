@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/프로젝트/토이프로젝트3/깃 커밋 메세지 템플릿 설정.md",
+                "file": "취준/자소서/LG CNS.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/프로젝트/토이프로젝트3/깃 커밋 메세지 템플릿 설정.md",
+                "file": "취준/자소서/LG CNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/프로젝트/토이프로젝트3/깃 커밋 메세지 템플릿 설정.md",
+                "file": "취준/자소서/LG CNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/프로젝트/토이프로젝트3/깃 커밋 메세지 템플릿 설정.md"
+                "file": "취준/자소서/LG CNS.md"
               }
             }
           },
@@ -182,11 +182,11 @@
   },
   "active": "07ca667d902801cf",
   "lastOpenFiles": [
+    "프로그래밍/프로젝트/토이프로젝트3/깃 커밋 메세지 템플릿 설정.md",
     "프로그래밍/프로젝트/토이프로젝트3/ERD 작성 툴.md",
     "프로그래밍/프로젝트/토이프로젝트3/USER를 DB NAME으로 안 쓰는 이유.md",
     "프로그래밍/프로젝트/토이프로젝트3/GIT HUB 이슈 템플릿.md",
     "프로그래밍/프로젝트/토이프로젝트3/더티체킹.md",
-    "프로그래밍/프로젝트/토이프로젝트3/깃 커밋 메세지 템플릿 설정.md",
     "프로그래밍/프로젝트/토이프로젝트3/1. Query Parameter.md",
     "프로그래밍/프로젝트/토이프로젝트2/깃.md",
     "프로그래밍/프로젝트/토이프로젝트3/@NotNull vs Column(nullable=false).md",
