@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/프로젝트/토이프로젝트3/GIT HUB 이슈 템플릿.md",
+                "file": "프로그래밍/프로젝트/토이프로젝트3/@NotNull vs Column(nullable=false).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/프로젝트/토이프로젝트3/GIT HUB 이슈 템플릿.md",
+                "file": "프로그래밍/프로젝트/토이프로젝트3/@NotNull vs Column(nullable=false).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/프로젝트/토이프로젝트3/GIT HUB 이슈 템플릿.md",
+                "file": "프로그래밍/프로젝트/토이프로젝트3/@NotNull vs Column(nullable=false).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/프로젝트/토이프로젝트3/GIT HUB 이슈 템플릿.md"
+                "file": "프로그래밍/프로젝트/토이프로젝트3/@NotNull vs Column(nullable=false).md"
               }
             }
           },
@@ -182,8 +182,9 @@
   },
   "active": "07ca667d902801cf",
   "lastOpenFiles": [
-    "프로그래밍/프로젝트/토이프로젝트3/더티체킹.md",
     "프로그래밍/프로젝트/토이프로젝트3/GIT HUB 이슈 템플릿.md",
+    "프로그래밍/프로젝트/토이프로젝트3/@NotNull vs Column(nullable=false).md",
+    "프로그래밍/프로젝트/토이프로젝트3/더티체킹.md",
     "프로그래밍/프로젝트/토이프로젝트3/무제 폴더",
     "프로그래밍/프로젝트/토이프로젝트3/ERD 작성 툴.md",
     "프로그래밍/프로젝트/토이프로젝트3/깃 커밋 메세지 템플릿 설정.md",
@@ -211,7 +212,6 @@
     "취준/자소서/CGV 자기소개서.md",
     "프로그래밍/클린코드/휴리스틱.md",
     "취준/자소서/한화시스템 웹 개발.md",
-    "취준/자소서/코오롱베니트.md",
     "resources/Pasted image 20231105163921.png",
     "resources/Pasted image 20231106113050.png",
     "resources/Pasted image 20231106113039.png",
