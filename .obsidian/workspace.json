@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "취준/자소서/LG CNS.md",
+                "file": "취준/취업 현황도.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "취준/자소서/LG CNS.md",
+                "file": "취준/취업 현황도.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "취준/자소서/LG CNS.md",
+                "file": "취준/취업 현황도.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "취준/자소서/LG CNS.md"
+                "file": "취준/취업 현황도.md"
               }
             }
           },
@@ -157,10 +157,10 @@
   },
   "active": "6da306f271f494b4",
   "lastOpenFiles": [
+    "취준/자소서/LG CNS.md",
     "취준/자소서/플래티어.md",
     "취준/자소서/신세계 I&C.md",
     "취준/자소서/롯데정보통신.md",
-    "취준/자소서/LG CNS.md",
     "취준/자소서/신한은행.md",
     "취준/자소서/가비아.md",
     "취준/면접/신한은행 예상 질문 정리.md",
