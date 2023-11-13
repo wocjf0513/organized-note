@@ -38,8 +38,25 @@ class ItineraryServiceTest {
 ```
 
 ---
+Controller 단위테스트는
 
-Controller 단위 테스트는
+### @WebMvcTest
+
+- MVC를 위한 테스트
+- 웹상에서 요청과 응답에 대해 테스트할 수 있다.
+- @SpringBootTest의 경우 모든 빈을 로드하기 때문에 테스트 구동 시간이 오래 걸리고, 테스트 단위가 크기 때문에 디버깅이 어려울 수 있다. Controller 레이어만 슬라이스 테스트 하고 싶을 때에는 @WebMvcTest를 쓰는게 유용하며 @SpringBootTest 어노테이션보다 가볍게 테스트할 수 있다.
+- @Controller, @ControllerAdvice, @JsonComponent, Converter, GenericConverter, Filter, HandlerInterceptor 내용만 스캔하도록 제한된다.
+- Service, Repository dependency가 필요한 경우에는 @MockBean으로 주입받아 테스트를 진행 한다.
+
+특정 Controller를 지정하여 스캔한다.
+
+
+
+
+
+---
+
+통합 테스트는
 
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)  
 @Transactional  
