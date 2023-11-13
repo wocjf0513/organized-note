@@ -51,8 +51,21 @@ public class SpyAnnotation {
 
 	 Mockito에선 when 메소드를 이용해서 스터빙을 지원하고 있습니다.when에 스터빙할 메소드를 넣고 그 이후에 어떤 동작을 어떻게 제어할지를 메소드 체이닝 형태로 작성하면됩니다.
 
+#### 스터빙 방법
+```
+when({스터빙할 메소드}).{OngoingStubbing 메소드};
+```
+![[Pasted image 20231113143429.png]]
+
+```
+{Stubber 메소드}.when({스터빙할 클래스}).{스터빙할 메소드}
+```
+
+![[Pasted image 20231113143440.png]]
 
 
-
-
-
+### 검증
+```
+verify(T mock, VerificationMode mode)
+```
+![[Pasted image 20231113143559.png]]
