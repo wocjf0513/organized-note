@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "취준/자소서/LG CNS.md",
+                "file": "취준/자소서/웅진.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "신한",
+                "query": "야놀자",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "취준/자소서/LG CNS.md",
+                "file": "취준/자소서/웅진.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "취준/자소서/LG CNS.md",
+                "file": "취준/자소서/웅진.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "취준/자소서/LG CNS.md"
+                "file": "취준/자소서/웅진.md"
               }
             }
           },
@@ -158,14 +158,14 @@
   },
   "active": "6da306f271f494b4",
   "lastOpenFiles": [
+    "취준/면접/신한은행 예상 질문 정리.md",
     "취준/자소서/신한은행.md",
+    "취준/자소서/신세계 I&C.md",
+    "취준/자소서/가비아.md",
     "취준/자소서/LG CNS.md",
     "프로그래밍/프로젝트/토이프로젝트3/더티체킹.md",
     "프로그래밍/프로젝트/토이프로젝트3/1. Query Parameter.md",
     "취준/자소서/NDS.md",
-    "취준/면접/신한은행 예상 질문 정리.md",
-    "취준/자소서/신세계 I&C.md",
-    "취준/자소서/가비아.md",
     "프로그래밍/프로젝트/토이프로젝트3/깃 커밋 메세지 템플릿 설정.md",
     "프로그래밍/프로젝트/토이프로젝트3/ERD 작성 툴.md",
     "프로그래밍/프로젝트/토이프로젝트3/USER를 DB NAME으로 안 쓰는 이유.md",
