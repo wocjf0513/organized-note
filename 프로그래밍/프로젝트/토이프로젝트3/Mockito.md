@@ -67,5 +67,9 @@ when({스터빙할 메소드}).{OngoingStubbing 메소드};
 ### 검증
 ```
 verify(T mock, VerificationMode mode)
+	 verify(userService, atLeastOnce()).getUser();
 ```
 ![[Pasted image 20231113143559.png]]
+
+
+Juit Assert Methods
