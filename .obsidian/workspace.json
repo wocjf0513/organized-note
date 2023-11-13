@@ -23,9 +23,11 @@
             "id": "fb84cfa8ea4b1ec2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "resources/Pasted image 20231113140923.png"
+                "file": "프로그래밍/프로젝트/토이프로젝트3/Mockito.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -59,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lg cns",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/Pasted image 20231113140923.png",
+                "file": "프로그래밍/프로젝트/토이프로젝트3/Mockito.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources/Pasted image 20231113140923.png",
+                "file": "프로그래밍/프로젝트/토이프로젝트3/Mockito.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources/Pasted image 20231113140923.png"
+                "file": "프로그래밍/프로젝트/토이프로젝트3/Mockito.md"
               }
             }
           },
@@ -168,8 +170,9 @@
   },
   "active": "fb84cfa8ea4b1ec2",
   "lastOpenFiles": [
-    "취준/취업 현황도.md",
     "resources/Pasted image 20231113140923.png",
+    "프로그래밍/프로젝트/토이프로젝트3/Mockito.md",
+    "취준/취업 현황도.md",
     "취준/자소서/LG CNS.md",
     "취준/자소서/플래티어.md",
     "취준/자소서/신세계 I&C.md",
@@ -197,7 +200,6 @@
     "취준/자소서/에스원.md",
     "취준/자소서/아성 다이소.md",
     "취준/자소서/미라콤 아이앤씨.md",
-    "취준/자소서/SK C&C.md",
     "resources/Pasted image 20231105163921.png",
     "resources/Pasted image 20231106113050.png",
     "resources/Pasted image 20231106113039.png",
