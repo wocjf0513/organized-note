@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "cc803b3351f424b3",
+        "id": "e2c62e9d7ac26802",
         "type": "tabs",
         "children": [
           {
@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/프로젝트/토이프로젝트3/더티체킹.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "e2c62e9d7ac26802",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "07ca667d902801cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "취준/자소서/NDS.md",
+                "file": "취준/자소서/LG CNS.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "야놀자",
+                "query": "신한",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/프로젝트/토이프로젝트3/더티체킹.md",
+                "file": "취준/자소서/LG CNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/프로젝트/토이프로젝트3/더티체킹.md",
+                "file": "취준/자소서/LG CNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/프로젝트/토이프로젝트3/더티체킹.md"
+                "file": "취준/자소서/LG CNS.md"
               }
             }
           },
@@ -176,17 +158,18 @@
   },
   "active": "6da306f271f494b4",
   "lastOpenFiles": [
+    "취준/자소서/신한은행.md",
+    "취준/자소서/LG CNS.md",
+    "프로그래밍/프로젝트/토이프로젝트3/더티체킹.md",
     "프로그래밍/프로젝트/토이프로젝트3/1. Query Parameter.md",
     "취준/자소서/NDS.md",
     "취준/면접/신한은행 예상 질문 정리.md",
-    "취준/자소서/LG CNS.md",
     "취준/자소서/신세계 I&C.md",
     "취준/자소서/가비아.md",
     "프로그래밍/프로젝트/토이프로젝트3/깃 커밋 메세지 템플릿 설정.md",
     "프로그래밍/프로젝트/토이프로젝트3/ERD 작성 툴.md",
     "프로그래밍/프로젝트/토이프로젝트3/USER를 DB NAME으로 안 쓰는 이유.md",
     "프로그래밍/프로젝트/토이프로젝트3/GIT HUB 이슈 템플릿.md",
-    "프로그래밍/프로젝트/토이프로젝트3/더티체킹.md",
     "프로그래밍/프로젝트/토이프로젝트2/깃.md",
     "프로그래밍/프로젝트/토이프로젝트3/@NotNull vs Column(nullable=false).md",
     "프로그래밍/프로젝트/토이프로젝트3/무제 폴더",
@@ -205,7 +188,6 @@
     "취준/자소서/SK C&C.md",
     "취준/자소서/현대오토에버.md",
     "취준/자소서/현대 IT & E.md",
-    "취준/자소서/LIG 넥스원.md",
     "resources/Pasted image 20231105163921.png",
     "resources/Pasted image 20231106113050.png",
     "resources/Pasted image 20231106113039.png",
