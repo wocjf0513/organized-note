@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/프로젝트/토이프로젝트3/Mockito.md",
+                "file": "프로그래밍/프로젝트/토이프로젝트3/Repository 테스트.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/프로젝트/토이프로젝트3/Mockito.md",
+                "file": "프로그래밍/프로젝트/토이프로젝트3/Repository 테스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/프로젝트/토이프로젝트3/Mockito.md",
+                "file": "프로그래밍/프로젝트/토이프로젝트3/Repository 테스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/프로젝트/토이프로젝트3/Mockito.md"
+                "file": "프로그래밍/프로젝트/토이프로젝트3/Repository 테스트.md"
               }
             }
           },
@@ -169,11 +169,12 @@
   },
   "active": "fb84cfa8ea4b1ec2",
   "lastOpenFiles": [
+    "프로그래밍/프로젝트/토이프로젝트3/Mockito.md",
+    "프로그래밍/프로젝트/토이프로젝트3/Repository 테스트.md",
     "resources/Pasted image 20231113143559.png",
     "resources/Pasted image 20231113143440.png",
     "resources/Pasted image 20231113143429.png",
     "resources/Pasted image 20231113140923.png",
-    "프로그래밍/프로젝트/토이프로젝트3/Mockito.md",
     "취준/취업 현황도.md",
     "취준/자소서/LG CNS.md",
     "취준/자소서/플래티어.md",
@@ -213,7 +214,6 @@
     "취미/스피치 연습/흥박사 스피치",
     "취미/스피치 연습/말 잘하는 방법.canvas",
     "취미/스피치 연습",
-    "resources/모음표.png",
     "취미",
     "프로그래밍/Spring",
     "Untitled 2.canvas",
