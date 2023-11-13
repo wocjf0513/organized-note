@@ -72,4 +72,21 @@ verify(T mock, VerificationMode mode)
 ![[Pasted image 20231113143559.png]]
 
 
-Juit Assert Methods
+Juit Assert Methods ()
+
+ctrl + shift + t 를 눌러, 기존 작업 클래스에서 test를 만들거나 
+```java
+import static org.junit.jupiter.api.Assertions.*;
+```
+추가해야  된다.
+
+### assertThrows()
+
+- 주로 테스트 방법에 의해 던진 이상을 테스트하고 던진 이상이 기대에 부합되는지 테스트한다. -> 내가 의도한 오류가 제대로 던져졌는지를 테스트
+
+### assertDoesNotThrow()
+
+- 주로 테스트 방법에 이상이 던져졌는지, 이상이 던져지면 실패했다고 단언하고, 이상이 없으면 성공했다고 단언하는 데 쓰인다. -> 내가 테스트하는 코드가 오류가 있는지 없는지를 테스트
+
+
+
