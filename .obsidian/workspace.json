@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍/Git/GutHub Action.md",
+                "file": "프로그래밍/CS/데이터베이스/Mysql 쿼리문 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sql",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍/Git/GutHub Action.md",
+                "file": "프로그래밍/CS/데이터베이스/Mysql 쿼리문 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍/Git/GutHub Action.md",
+                "file": "프로그래밍/CS/데이터베이스/Mysql 쿼리문 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍/Git/GutHub Action.md"
+                "file": "프로그래밍/CS/데이터베이스/Mysql 쿼리문 정리.md"
               }
             }
           },
@@ -169,8 +170,10 @@
   },
   "active": "fb84cfa8ea4b1ec2",
   "lastOpenFiles": [
-    "프로그래밍/프로젝트/토이프로젝트3/Versioning.md",
+    "취준/코테/SQL관련 코테 시 필요 API 정리.md",
+    "프로그래밍/CS/데이터베이스/Mysql 쿼리문 정리.md",
     "프로그래밍/Git/GutHub Action.md",
+    "프로그래밍/프로젝트/토이프로젝트3/Versioning.md",
     "프로그래밍/프로젝트/토이프로젝트3/Mockito.md",
     "프로그래밍/프로젝트/토이프로젝트3/SpringBoot Layer 별 단위 테스트 방법.md",
     "resources/Pasted image 20231113143559.png",
@@ -201,8 +204,6 @@
     "프로그래밍/Spring/Security.md",
     "resources/Pasted image 20231109211731.png",
     "resources/Pasted image 20231109211723.png",
-    "취준/면접/기술 면접 정리.md",
-    "취준/자소서/에스원.md",
     "resources/Pasted image 20231105163921.png",
     "resources/Pasted image 20231106113050.png",
     "resources/Pasted image 20231106113039.png",
